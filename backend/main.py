@@ -29,7 +29,7 @@ class GuidanceCounselor:
         vector_store_chunk_size_in_tokens: int = 250,
         vector_store_chunk_overlap_in_tokens: int = 25,
         vector_store_separators: Optional[List[str]] = None,
-        number_of_documents_to_retrieve: int = 2,
+        number_of_documents_to_retrieve: int = 10,
         verbose: bool = False,
     ):
 
