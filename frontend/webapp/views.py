@@ -11,8 +11,8 @@ from flask import (
 from flask_login import login_required, login_user, logout_user
 from langchain_community.vectorstores import FAISS
 
-from backend.chat_utils import load_embedding
-from backend.main import GuidanceCounselor
+from backend.app.comet_helper.chat_utils import load_embedding
+from backend.app.comet_helper.main import GuidanceCounselor
 from instances_generator import bcrypt, login_manager
 from models import Conversation, Entry, LoginForm, RegisterForm, User, db
 
@@ -83,13 +83,13 @@ def index():
             embeddings = load_embedding()
 
             vector_store = FAISS.load_local(
-                "./vector_store/faiss_index",
+                "vector_store/faiss_index",
                 embeddings,
                 allow_dangerous_deserialization=True,
             )
 
             guidance_counselor = GuidanceCounselor(
-                pdf_directory="/Users/nikita.dmitrieff/Desktop/Personal/Comet/data",
+                pdf_directory=os.getenv("COMET_HELPER_DATA_PATH"),
             )
 
             guidance_counselor.vector_store = vector_store
@@ -98,7 +98,7 @@ def index():
 
             # 1. Create a guidance_counselor instance
             guidance_counselor = GuidanceCounselor(
-                pdf_directory="/Users/nikita.dmitrieff/Desktop/Personal/Comet/data",
+                pdf_directory=os.getenv("COMET_HELPER_DATA_PATH"),
             )
 
             # 2. Create vector store

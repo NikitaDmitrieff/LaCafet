@@ -1,6 +1,8 @@
-from backend.comet_predictor.generator_utils import (
-    prepare_csv,
-    prepare_profile_dictionnary,
+import numpy as np
+
+from backend.app.comet_predictor.generator_utils import (
+    get_requirements_df,
+    get_profile_df,
 )
 
 
@@ -27,10 +29,14 @@ def can_apply(student_dict, df):
             student_value = student_row.values[0]
             requirement_value = row[requirement_type]
 
-            if isinstance(student_value, (int, float)) and isinstance(
-                requirement_value, (int, float)
-            ):
-                if student_value < requirement_value:
+            if isinstance(
+                student_value, (int, float, np.integer, np.floating)
+            ) and isinstance(requirement_value, (int, float)):
+
+                if dict(row.items())["Université/Ecole"] == "Paris II Panthéon Assas":
+                    print()
+
+                if student_value > requirement_value:
                     can_apply = False
                     break
 
@@ -51,8 +57,8 @@ def can_apply(student_dict, df):
 
 if __name__ == "__main__":
 
-    requirements = prepare_csv()
-    profiles = prepare_profile_dictionnary()
+    requirements = get_requirements_df()
+    profiles = get_profile_df()
 
     possible_wish_list = can_apply(profiles, requirements)
 

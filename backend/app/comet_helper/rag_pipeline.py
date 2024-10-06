@@ -7,7 +7,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
 def get_context(
-    pdf_directory="/Users/nikita.dmitrieff/Desktop/Personal/Comet/data",
+    pdf_directory=os.getenv("COMET_HELPER_DATA_PATH"),
     embedding_model=None,
 ):
 

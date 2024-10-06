@@ -1,15 +1,16 @@
+import os
 from typing import List, Optional
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 
-from backend.chat_utils import (
+from backend.app.comet_helper.chat_utils import (
     basic_inquiry,
     create_full_chain,
     load_embedding,
     load_pdf_documents,
 )
-from backend.prompts import (
+from backend.app.comet_helper.prompts import (
     SYSTEM_PROMPT_TEMPLATE,
     USER_PROMPT_TEMPLATE,
     HYDE_PROMPT_TEMPLATE,
@@ -23,7 +24,7 @@ class GuidanceCounselor:
 
     def __init__(
         self,
-        pdf_directory="/Users/nikita.dmitrieff/Desktop/Personal/Comet/data",
+        pdf_directory=os.getenv("COMET_HELPER_DATA_PATH"),
         system_template: str = SYSTEM_PROMPT_TEMPLATE,
         user_template: str = USER_PROMPT_TEMPLATE,
         vector_store_chunk_size_in_tokens: int = 250,
@@ -169,7 +170,7 @@ def quick_talk(
     user_question: str = "Hi",
     system_template: str = SYSTEM_PROMPT_TEMPLATE,
     user_template: str = USER_PROMPT_TEMPLATE,
-    pdf_directory: str = "/Users/nikita.dmitrieff/Desktop/Personal/Comet/data",
+    pdf_directory: str = os.getenv("COMET_HELPER_DATA_PATH"),
     model_type: str = None,
 ):
 
@@ -194,7 +195,7 @@ def clean_text(text: str) -> str:
 
 if __name__ == "__main__":
     guidance_counselor = GuidanceCounselor(
-        pdf_directory="/Users/nikita.dmitrieff/Desktop/Personal/Comet/data",
+        pdf_directory=os.getenv("COMET_HELPER_DATA_PATH"),
     )
 
     print(guidance_counselor.generate_answer(user_question="C'est quoi Néoma ?"))

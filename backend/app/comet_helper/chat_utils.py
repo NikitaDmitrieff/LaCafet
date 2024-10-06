@@ -9,8 +9,8 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langsmith import traceable
 
+from backend.app.comet_helper.rag_pipeline import get_context
 from backend.credentials import OPENAI_API_KEY
-from backend.rag_pipeline import get_context
 
 load_dotenv()
 
@@ -83,7 +83,7 @@ def form_chain_from_links(*args):
 def create_full_chain(
     system_template: str = "You are a guidance counselor, be informative and encouraging.",
     user_template: str = "{text}",
-    pdf_directory: str = "/Users/nikita.dmitrieff/Desktop/Personal/Comet/data",
+    pdf_directory: str = os.getenv("COMET_HELPER_DATA_PATH"),
     model_type: str = None,
 ):
     context_link = get_context(
@@ -98,11 +98,8 @@ def create_full_chain(
 
 
 def load_pdf_documents(
-    pdf_directory="/Users/nikita.dmitrieff/Desktop/Personal/Comet/data",
+    pdf_directory=os.getenv("COMET_HELPER_DATA_PATH"),
 ):
-
-    if not pdf_directory:
-        pdf_directory = "/Users/nikita.dmitrieff/Desktop/Personal/Comet/data"
 
     # Load all PDF files from the directory
     pdf_loaders = []
