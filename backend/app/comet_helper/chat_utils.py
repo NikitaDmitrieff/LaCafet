@@ -10,7 +10,6 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langsmith import traceable
 
 from backend.app.comet_helper.rag_pipeline import get_context
-from backend.credentials import OPENAI_API_KEY
 
 load_dotenv()
 
@@ -21,7 +20,6 @@ def load_model(model_type=None):
     if not model_type:
         model_type = "gpt-4o-mini"
 
-    os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
     model = ChatOpenAI(model=model_type)
 
     return model
@@ -33,7 +31,7 @@ def load_embedding(embedding_type=None):
     if not embedding_type:
         embedding_type = "gpt-4o-mini"
 
-    os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
+    # os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY Already done with .env
     model = OpenAIEmbeddings()
 
     return model

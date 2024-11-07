@@ -1,66 +1,55 @@
-import numpy as np
+from typing import List
 
-from backend.app.comet_predictor.generator_utils import (
-    get_requirements_df,
-    get_profile_df,
-)
+import pandas as pd
 
 
-def can_apply(student_dict, df):
+def _hard_requirement_parser(
+    requirements_df: pd.DataFrame, profile: dict
+) -> List[dict]:
+    possible_wishes = []
+    impossible_wishes = []
 
-    # List to store applicable formations
-    applicable_formations = []
+    for index, row in requirements_df.iterrows():
 
-    # Metadata columns to exclude from requirement comparison
-    metadata_columns = [
-        "Sélectivité",
-        "Intitulé de la formation",
-        "Université/Ecole",
-        "LIEU",
-    ]
-
-    for index, row in df.iterrows():
         can_apply = True
+        for requirement_name, requirement_value in row.to_dict().items():
 
-        for requirement_type, student_row in student_dict.items():
-            if requirement_type in metadata_columns:
-                continue
-
-            student_value = student_row.values[0]
-            requirement_value = row[requirement_type]
-
-            if isinstance(
-                student_value, (int, float, np.integer, np.floating)
-            ) and isinstance(requirement_value, (int, float)):
-
-                if dict(row.items())["Université/Ecole"] == "Paris II Panthéon Assas":
-                    print()
-
-                if student_value > requirement_value:
+            if requirement_name in [
+                "international",
+                "relative overall average",
+                "absolute value overall average",
+                "french grade",
+            ]:
+                if profile[requirement_name] < requirement_value:
                     can_apply = False
                     break
 
-            if isinstance(student_value, (str)) and isinstance(
-                requirement_value, (str)
-            ):
-                if student_value != requirement_value:
-                    can_apply = False
-                    break
-
-        # If the student qualifies for this formation, add it to the list
         if can_apply:
-            formation_info = f"{row['Intitulé de la formation']} - {row['Université/Ecole']} ({row['LIEU']})"
-            applicable_formations.append(formation_info)
+            possible_wishes.append(row.to_dict())
+        else:
+            impossible_wishes.append(row.to_dict())
 
-    return applicable_formations
+    return possible_wishes, impossible_wishes
 
 
-if __name__ == "__main__":
+def generate_possible_wishes(
+    profile: dict, requirement_file_path: str = "data_wish_list/parsed_wish_list.csv"
+) -> List[dict]:
+    """
+    Main function for retrieving the possible wishes for a certain profile:
+        Calls hard_requirement parser
 
-    requirements = get_requirements_df()
-    profiles = get_profile_df()
+    Args:
+        profile: dict with the user's grades and sections
+        requirement_file_path: str leading to the requirement csv file
+    """
 
-    possible_wish_list = can_apply(profiles, requirements)
+    # Parse though hard requirements
+    requirements_df = pd.read_csv(requirement_file_path)
+    possible_wishes = _hard_requirement_parser(
+        requirements_df=requirements_df, profile=profile
+    )
 
-    for possible_wish in possible_wish_list:
-        print("\n", possible_wish)
+    # Other parsing
+
+    return possible_wishes

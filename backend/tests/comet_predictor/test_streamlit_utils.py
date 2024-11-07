@@ -1,6 +1,6 @@
 from unittest.mock import patch
 
-from backend.app.comet_predictor.models import (
+from backend.app.comet_predictor.old_version.models import (
     PARSED_CLEANED_EXAMPLE_USER,
     STREAMLIT_EXAMPLE_USER_INPUT,
 )

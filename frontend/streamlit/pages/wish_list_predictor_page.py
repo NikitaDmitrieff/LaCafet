@@ -1,8 +1,10 @@
-import pandas as pd
+import os
+
 import streamlit as st
 
 from backend.app.comet_predictor.streamlit_utils import convert_to_example_format
 
+st.markdown(f"{os.getcwd()}")
 st.markdown("# Wish list predictor")
 # Page and Sidebar titles
 st.sidebar.markdown("# Wish list predictor")
@@ -92,7 +94,3 @@ def streamlit_user_input():
     # Submit button
     if st.button("Submit"):
         return convert_to_example_format(responses)
-
-
-df = pd.DataFrame([streamlit_user_input()])
-df

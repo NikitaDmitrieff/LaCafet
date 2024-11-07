@@ -1,128 +1,128 @@
-LIEU,Université/Ecole,Intitulé de la formation,Sélectivité,,FILIERE 1,FILIERE 2,INTERNATIONAL/ANGLAIS,Maths,PC,SVT,NSI,HLP,LLCE,AMC,HGGSP,SES,ARTS PLASTIQUES,DROIT ET GRANDS ENJEUX,MATHS COMPLEMENTAIRES,MATHS EXPERTES,STMG,>> moyenne,>= moyenne,<= moyenne,<< moyenne,moyenne générale <10,moyenne générale entre 10 et 12,moyenne générale entre 12 et 14,moyenne générale entre 14 et 16,moyenne générale >16,moyenne de français <10,moyenne de français entre 10 et 12,moyenne de français entre 12 et 14,moyenne de français entre 14 et 16,moyenne de français >16,moyenne de français >18
-PARIS,Paris II Panthéon Assas,Licence de droit,972 -16%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,X,X,,,,,2,1,,,,,2,1,
-PARIS,Paris I Panthéon Sorbonne,Licence de droit,745-16%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,X,X,,,,,2,1,,,,,2,1,
-PARIS,Paris I Panthéon Sorbonne,Double Licence Droit et Science Politique,60 -5%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,X,,,,,,,1,,,,,2,1,
-NANTERRE,Paris Nanterre,Licence de droit,770- 53%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,,X,,,,,X,,,,,2,1,,
-NANTERRE,Paris Nanterre,Licence de droit Français - droit étranger - Droit français Common Law,115-26%,,DROIT,SC. POLITIQUES RI,X,,,,,2,,,1,2,,3,,,,X,,,,,,,X,,,,,,1,
-PARIS,Paris Cité,Licence de droit,527-38%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,,,,,,,,,,,,,1,,
-PARIS,Catho de Paris - ICP,Licence de droit - Campus de Paris,250-43 %,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,,X,,,,,,X,,,,2,1,,
-REIMS,Catho de Paris - ICP,Reims – Licence de droit,90-73%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,,X,X,,,,X,,,,,1,,,
-ROUEN,Catho de Paris - ICP,Rouen – Licence de droit,90-79%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,,X,X,,,,X,,,,,1,,,
-ISSY-LES-MOULINEAUX,Institut Catholique de Lille,Licence de Droit Parcours droit et culture juridique - Issy les Moulineaux,150-99%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,,,X,,,X,,,,,2,1,,,
-ISSY-LES-MOULINEAUX,Institut Catholique de Lille,Licence de Droit – Parcours Multilingue droit international et Européen Issy Les Moulineaux,90-96%,,DROIT,SC. POLITIQUES RI,X,,,,,2,2,,1,2,,3,,,,,,X,,,,X,,,,2,1,,,
-LILLE,Institut Catholique de Lille,Licence de Droit - Parcours droit et culture juridique – Lille,250-80%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,,,X,,,,X,,,,2,1,,,
-LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Multilingue droit international et Européen - Lille,157-61%,,DROIT,SC. POLITIQUES RI,X,,,,,2,2,,1,2,,3,,,,,,X,,,,X,,,,2,1,,,
-LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Droit et Science Politique Lille,157-52%,,DROIT,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,,,X,,,,X,,,,2,1,,,
-LILLE,Institut Catholique de Lille,"ESPOL - Licence de Science Politique – Parcours Philosophie, Politique et Économique (PPE)",105-70%,,SC.POLITIQUE RI,SCIENCES SOCIALES,X,,,,,2,2,,1,2,,3,1,,,,X,,,,,,X,,,,2,1,,
-LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Licence Européenne de Science Politique,190-49%,,SC.POLITIQUE RI,SCIENCES SOCIALES,X,,,,,2,2,,1,2,,3,,,,,,,,,,,X,,,,2,1,,
-LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Relations internationales,180-26%,,SC.POLITIQUE RI,SCIENCES SOCIALES,X,,,,,2,2,,1,2,,3,,,,,,,,,,,X,,,,2,1,,
-PARIS,Catho de Paris - ICP,Licence d'Histoire - Parcours Histoire et Science Politique,220 -38%,,HISTOIRE,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,,X,,,,,,X,,,,,X,,
-PARIS,Catho de Paris - ICP,Licence de Philosophie,50-100%,,HUMANITES,PHILOSOPHIE,,,,,,1,,,2,,,3,,,,,,X,,,X,,,,,,,X,,
-PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence de Philosophie + Bachelor Science Politique, Géopolitique et Humanités",,,SC.POLITIQUE RI,PHILOSOPHIE,,1,,,,1,,,1,2,,3,1,,,,X,,,,,,X,,,,,,X,
-PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence d'Histoire + Bachelor Science Politique, Géopolitique et Humanités",,,SC.POLITIQUE RI,HISTOIRE,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PARIS,Paris II Panthéon Assas/ISIT,Master de Juriste Linguiste Bac + 5,,,DROIT,LANGUES,X,,,,,2,1,,1,,,3,,,,,X,,,,,,X,,,,,X,,
-PARIS,Paris II Panthéon Assas,Licence de Sciences Politiques,120-9%,,SC.POLITIQUE RI,,,,,,,2,,,1,2,,3,,,,X,,,,,,,X,,,,,,X,
-PARIS,Paris II Panthéon Assas,Licence de droit - Collège de Droit,75-8%,,DROIT,SC. POLITIQUES RI,,,,,,,,,1,2,,3,,,,X,,,,,,,,X,,,,,X,
-PARIS,Paris I Panthéon Sorbonne,Licence de Sciences Politiques,75-5%,,SC.POLITIQUE RI,SC. POLITIQUES RI,,,,,,2,,,1,2,,3,,,,X,,,,,,,X,,,,,,X,
-PARIS,Paris I Panthéon Sorbonne,Licence de droit - Collège de Droit,,,DROIT,,,,,,,2,,,1,2,,3,,,,X,,,,,,,,X,,,,,X,
-NANTERRE,Paris Nanterre,Licence de Sciences Politiques,130-16%,,SC.POLITIQUE RI,,,,,,,2,,,1,2,,3,,,,X,,,,,,,X,,,,,,X,
-PARIS,Lycée Henri IV - Université PSL,CPES Humanités et Société,35-15%,,SC.POLITIQUE RI,HUMANITES,,1,,,,2,,,2,2,,3,1,,,X,,,,,,,,X,,,,,,X
-PARIS,Paris I Panthéon Sorbonne,Licence d'Economie,,,ECONOMIE,ECONOMIE,,1,,,,,,,2,1,,,,2,,,X,,,,,,X,,,,,X,,
-PARIS,Paris I Panthéon Sorbonne,Licence de Gestion,725-54%,,ECONOMIE GESTION,GESTION,,1,,,,,,,,2,,,1,,,,X,,,,,,X,,,X,,,,
-PARIS,Paris I Panthéon Sorbonne,Double Licence Droit et Économie Gestion,,,DROIT,ÉCONOMIE GESTION,,1,,,,,,,2,2,,3,1,,,X,,,,,,,X,,,,,,X,
-PARIS,Paris I Panthéon Sorbonne,Double Licence Économie et Science Politique,5%,,ECONOMIE GESTION,SC. POLITIQUES RI,,1,,,,,,,1,2,,3,,2,,X,,,,,,,,X,,,,,X,
-PARIS,Paris II Panthéon Assas,Licence d'Économie et Gestion,350-24%,,ECONOMIE GESTION,ECONOMIE,,1,,,,,,,,2,,,1,2,,,X,,,,,,X,,,,X,,,
-PARIS,Paris II Panthéon Assas,Collège d'Économie - Filière Ingénierie en Analyse Economique,35-20%,,ECONOMIE GESTION,MATHEMATIQUES,,1,,,,,,,,2,,,,2,,X,,,,,,,,X,,,,,X,
-PARIS,Paris II Panthéon Assas,Collège d'Économie - FilièreEconomie et Droit,35-25%,,ECONOMIE GESTION,DROIT,,1,,,,,,,2,2,,,,,,X,,,,,,,,X,,,,,X,
-PARIS,Paris Saclay,Portail Économie Gestion - Parcours Économie et Finance,170-62%,,ÉCONOMIE GESTION,MATHEMATIQUES,,1,,,,,,,,,,,1,2,,,X,,,,,X,,,,,X,,,
-PARIS,Paris II Panthéon Assas,Double Licence Droit et Économie Gestion,,,ÉCONOMIE GESTION,DROIT,,1,,,,,,,1,2,,3,1,2,,,,,,,,,,,,,,,,
-PARIS,Paris II Panthéon Assas,CMI Efiquas,35-14%,,ÉCONOMIE GESTION,MATHEMATIQUES,,1,,,,,,,,2,,,,1,,,X,,,,,,X,,,,,X,,
-PARIS,Paris Cité,Licence d'Économie Gestion,215-35%,,ÉCONOMIE GESTION,,,1,,,,,,,,2,,,1,2,,,,X,,,,X,,,,,X,,,
-PARIS,Paris Cité,Licence d'Économie et Sciences Sociales,,,ÉCONOMIE GESTION,SCIENCES SOCIALES,,1,,,,,,,,2,,,1,2,,,X,,,,,X,,,,,,X,,
-PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Paris,600-18%,,ÉCONOMIE GESTION,,,1,,,,,,,,2,,,1,2,,X,,,,,,,,X,,,,,X,
-PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Paris Talents,,,ÉCONOMIE GESTION,,,1,,,,,,,,2,,,1,2,,X,,,,,,,,X,,,,,X,
-LONDRES,Université Paris Dauphine,Licence en Sciences des Organisations Londres,75-30%,,ÉCONOMIE GESTION,,X,1,,,,,,,,2,,,1,2,,X,,,,,,,,X,,,,,X,
-MADRID,Université Paris Dauphine,Licence en Sciences des Organisations Madrid,35-27%,,ÉCONOMIE GESTION,,X,1,,,,,,,,2,,,1,2,,X,,,,,,,,X,,,,,X,
-PARIS,Université Paris Dauphine,Licence Mathématiques et Informatique Paris,,,MATHEMATIQUES,INFO. - DATA SCIENCE - IA,,1,2,,,,,,,2,,,1,2,,X,,,,,,,,X,,,,X,,
-PARIS,Université Paris Dauphine,Licence Mathématiques et Informatique Paris Talents,,,MATHEMATIQUES,INFO. - DATA SCIENCE - IA,,1,2,,,,,,,2,,,1,2,,X,,,,,,,,X,,,,X,,
-PARIS,Université Paris Dauphine,Double Licence Sciences des Organisations et Intelligence Artificielle,,,ÉCONOMIE GESTION,INFO. - DATA SCIENCE - IA,,1,2,,2,,,,,2,,,,1,,X,,,,,,,,X,,,,X,,
-PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Parcours Franco-Allemand,,,ÉCONOMIE GESTION,,X,1,2,,,,,,,2,,,,2,,X,,,,,,,,X,,,,,X,
-NANTERRE,Paris Nanterre,Licence d'Économie et Gestion,430-56%,,ÉCONOMIE GESTION,,,1,,,,,,,,2,,,1,2,,,X,,,,,X,,,,,X,,,
-NANTERRE,Paris Nanterre,Double Licence d'Économie Gestion - Cursus int. franco-anglais,90-43%,,ÉCONOMIE GESTION,,X,1,,,,,2,,,2,,,1,2,,,X,,,,,X,,,,,,X,,
-NANTERRE,Paris Nanterre,Licence d'Économie Gestion CMI Data Science for Social Science D3S,,,ÉCONOMIE GESTION,INFO. - DATA SCIENCE - IA,,1,2,,2,,,,,2,,,,1,,,X,,,,,,X,,,,,X,,
-LILLE,Institut Catholique de Lille,Licence d'Économie - Parcours Économie et Finance,,,ÉCONOMIE GESTION,,,,,,,,,,,2,,,,2,,,X,,,,,X,,,,,,,,
-LILLE,Institut Catholique de Lille,Licence Internationale d'Économie Gestion,150-84%,,ÉCONOMIE GESTION,,X,1,,,,,2,,,2,,,1,,,,,X,,,X,,,,,X,,,,
-LILLE,Institut Catholique de Lille,Licence de Gestion,150-95%,,ÉCONOMIE GESTION,,,1,,,,,,,,2,,,1,,,,,X,,,X,,,,,X,,,,
-LYON,EM Lyon,SESAME Global BBA - Bac +4,505-49%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,,X,,,
-LYON,EM Lyon,SESAME Global BBA - Bac +4 - Distanciel,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-CERGY PONTOISE,ESSEC,SESAME Global BBA - Bac +4 - Track Anglophone,145-8%,,COMMERCE,MNGT GENERAL,X,1,,,,,,,,2,,,1,2,X,,X,,,,,,X,,,,,X,,
-SINGAPOUR,ESSEC,SESAME Global BBA - Bac +4 - Singapour,,,COMMERCE,MNGT GENERAL,X,1,,,,,,,,2,,,1,2,X,,X,,,,,,X,,,,,X,,
-CERGY PONTOISE,ESSEC,SESAME Global BBA - Bac +4 - Track Francophone,270-12%,,COMMERCE,MNGT GENERAL,,1,,,,,,,,2,,,1,2,X,,X,,,,,,X,,,,,X,,
-RABAT,ESSEC,SESAME Global BBA - Bac +4 - Track Francophone - Rabat,,,COMMERCE,MNGT GENERAL,X,1,,,,,,,,2,,,1,2,X,,X,,,,,,X,,,,,X,,
-ARCUEIL,EXCELIA,SESAME BBA international English Track Arcueil - La Rochelle,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-LA ROCHELLE,EXCELIA,SESAME BBA international French Track - La Rochelle,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-GRENOBLE,Grenoble Ecole de Management,SESAME International BBA - Bac +4,100 places,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,X,,,,
-,KEDGE,SESAME International BBA - Bac +4 - Marseille - Paris,150-57%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-,NEOMA,SESAME Global BBA - Bac +4 - Rouen - Reims - Paris,280-53%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-REIMS,NEOMA,SESAME CESEM Double Diplôme Bac + 4 Immersion Europe,85-63%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-REIMS,NEOMA,SESAME CESEM Double Diplôme Bac +4 Immersion Amériques,85-50%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-PARIS,NEOMA,SESAME CESEM Double Diplôme Bac +4 Immersion Asie,50-51%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-TROYES,SCBS,SESAME International BBA - Bac +4,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-,SKEMA,SESAME BBA Bac+4 in Global Management Bac +4 Lille - Valbonne (Sophia Antipolis),350-55%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-PARIS,EBS - ex European Business School,SESAME - Programme Grande Ecole Bac + 5 - French Track,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-,EBS - ex European Business School,SESAME - Programme Grande Ecole Bac + 5 - European Track,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - Luxury Management,,,COMMERCE,LUXE MODE,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - International Track,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - French Track,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - Global Sports Track - Talents,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-COURBEVOIE,EMLV,SESAME - Programme Grande Ecole Bac + 5 - International Track,150-46%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,,X,,,,,X,,,
-COURBEVOIE,EMLV,Bachelor Business et Affaires Internationales,,,COMMERCE,SC. POLITIQUES RI,,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-COURBEVOIE,EMLV,SESAME - Programme Grande Ecole Bac +5,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,X,,,,,X,,,,,X,,,
-PARIS - CLICHY,EM Normandie,SESAME PGE Campus de Clichy Track Anglophone,600-55%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-PARIS - CLICHY,EM Normandie,SESAME PGE Campus de Clichy Track Francophone,600-55%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-OXFORD,EM Normandie,SESAME PGE Track Anglophone Oxford,70-54%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-CAEN,EM Normandie,SESAME PGE Track Anglophone Caen,150-58%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-CAEN,EM Normandie,SESAME PGE Track Francophone Caen,150-58%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-DUBLIN,EM Normandie,SESAME PGE Track Anglophone Dublin,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-PARIS - CLICHY,EM Normandie,International BBA Bac + 4 Paris,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-LE HAVRE,EM Normandie,Bac+3 - Bachelor en Management International,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-CLERMONT FERRAND,ESC Clermont Business School,Bac + 3 - Bachelor en Communication Digitale et E-Business,,,COMMERCE,DIGITAL E-BUSINESS,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-CLERMONT FERRAND,ESC Clermont Business School,Bac + 3 - Bachelor en Management International,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-,ESSCA,ACCES -Programme Grande Ecole Bac + 5 - Boulogne - Marseille - Lyon - Angers - Bordeaux - Strasbourg - Paris,200-65%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-PARIS,ESSCA,Bac + 3 - Bachelor en Management International Track Anglophone,70-76%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,X,,,,
-,ESSCA,Bac + 3 - Bachelor en Management International Track Francophone - Aix - Bordeaux - Strasbourg - Lyon - Angers,130-75%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-GRENOBLE,Grenoble Ecole de Management,Bac + 3 - Bachelor in International Business,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,X,,,X,,,,,X,,,,
-PARIS LA DEFENSE,ESCE,SESAME PGE Bac + 5 - Sciences Politiques Int. - La Défense,,,COMMERCE,SC. POLITIQUES RI,,2,,,,,,,2,2,,,2,,X,,,,X,,X,,,,,,X,,,
-LYON,ESCE,SESAME PGE Bac +5 - Sciences Politiques Int. - Lyon 7e,,,COMMERCE,SC. POLITIQUES RI,,2,,,,,,,2,2,,,2,,X,,,,X,,X,,,,,,X,,,
-"PARIS, LYON",ESCE,SESAME PGE - Cursus Int. Business - Francophone - Paris La Défense ou Lyon,60-37%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-"PARIS , LYON",ESCE,SESAME PGE - Cursus International Business - Trilingue Paris ou Lyon,30-34%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-"PARIS, LYON",ESCE,SESAME PGE - Cursus Int. Business - Anglophone - Paris La Défense Lyon,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PARIS,ICD,SESAME PGE- Track International Paris,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-TOULOUSE,ICD,SESAME PGE- Track International Toulouse,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PARIS,IPAG,"SESAME Track Geopolitique, communication et Sciences Politiques",,,COMMERCE,SC. POLITIQUES RI,,2,,,,,,,2,2,,,2,,X,,,,X,,X,,,,,X,,,,
-,IPAG,SESAME PGE Bac+5 Main Track Campus de Paris-Nice,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-,IPAG,SESAME PGE Bac+5 American Track Campus de Paris-Nice,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-NICE,IPAG,SESAME PGE Bac+5 Management et Ingénierie,,,COMMERCE,INGENIEUR,,2,2,,,,,,,2,,,2,2,X,,,,X,,X,,,,,X,,,,
-BORDEAUX,KEDGE,SESAME - Programme Grande Ecole Bac + 5 - EBP International,270-55%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-,NEOMA,SESAME TEMA – PGE Bac +5 Innovation et Digital Management - Paris - Reims - Rouen,120-60%,,COMMERCE,DIGITAL E-BUSINESS,,1,,,,,,,,2,,,2,2,X,,,X,,,,X,,,,,X,,,
-PARIS,PSB Paris School of Business,SESAME PGE Bac+5 - International Track – Paris 13e,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PARIS,PSB Paris School of Business,SESAME PGE Bac+5 - French Track – Paris 13e,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-MILAN,PSB Paris School of Business,"SESAME PGE Bac+5 - European Track –Milan, Munich puis Londres",30 places,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-,EDHEC,International BBA Bac + 4 - Parcours Global Business Nice/USA/Singapour,20-7%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,X,,,,,,,,X,,,X,,,
-"NICE, LILLE",EDHEC,"International BBA Bac +4 - Parcours Business Management - French Track Nice,Lille",225-44%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,X,,,,,,X,,,,X,,,
-"NICE, LILLE",EDHEC,"International BBA Bac +4 - Parcours Business Management - English Track Nice,Lille",120-20%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,X,,,,,,X,,,,X,,,
-ISSY LES MOULINEAUX -LILLE,EDHEC - CATHO DE LILLE,International BBA Bac+4 - Parcours International Law et Finance - Double Diplôme Licence Droit – Issy les Moulineaux/Lille (48 places – 63%),48-60%,,COMMERCE,DROIT,,1,,,,,,,2,2,,,2,,X,,X,,,,,,X,,,,X,,,
-,EDHEC - UTCompiègne,International BBA Bac+4 – Parcours double diplôme en Ingénierie Digitale et Management,40 places,,COMMERCE,INFO. - DATA SCIENCE - IA,,1,2,,2,,,,,2,,,,2,X,,X,,,,,,X,,,,X,,,
-"PARIS, LILLE",IESEG,ACCES PGE Bac+5 - Campus de Paris ou Lille,600-40%,,COMMERCE,MNGT GENERAL,,1,,,,,,,,2,,,2,2,X,,X,,,,,,X,,,,X,,,
-"PARIS, LILLE",IESEG,Bac + 3 - Bachelor in International Business Paris ou Lille,60-85%,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,,X,,,X,,,,X,,,,,X,,,
-PARIS SAINT OUEN,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Parcours Francophone,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-NANTES,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Parcours Francophone,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-NANTES,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Global Business Track Anglophone,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PARIS SAINT OUEN,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Global Business Track Anglophone,,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PARIS,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Paris,200-79%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-TOULOUSE,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Toulouse,400-81%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-BARCELONE,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Barcelone,40-80%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PARIS,ISC - Institut Supérieur de Commerce,Bac+3 - Bachelor en Management Paris,200-68%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-ORLEANS,ISC - Institut Supérieur de Commerce,Bac+3 - Bachelor en Management Orléans,200-68%,,COMMERCE,MNGT GENERAL,,2,,,,,,,,2,,,2,,X,,,,X,,X,,,,,X,,,,
-PARIS,ESCP,Bac+3 - Bachelor of Science in Management - Paris,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,2,X,,X,,,,,,X,,,,,X,,
-,ESCP,Bac+3 - Bachelor of Science in Management - 1ère année Turin ou Londres,,,COMMERCE,MNGT GENERAL,X,2,,,,,,,,2,,,2,2,X,,X,,,,,,X,,,,,X,,
+place,institution,wish name,number of spots,admission percentage,section 1,section 2,international,relative overall average,absolute value overall average,french grade
+PARIS,Paris II Panthéon Assas,Licence de droit,972,16,DROIT,SC. POLITIQUES RI,0,3,4,4
+PARIS,Paris I Panthéon Sorbonne,Licence de droit,745,16,DROIT,SC. POLITIQUES RI,0,3,4,4
+PARIS,Paris I Panthéon Sorbonne,Double Licence Droit et Science Politique,60,5,DROIT,SC. POLITIQUES RI,0,4,5,5
+NANTERRE,Paris Nanterre,Licence de droit,770,53,DROIT,SC. POLITIQUES RI,0,3,3,4
+NANTERRE,Paris Nanterre,Licence de droit Français - droit étranger - Droit français Common Law,115,26,DROIT,SC. POLITIQUES RI,1,4,3,4
+PARIS,Paris Cité,Licence de droit,527,38,DROIT,SC. POLITIQUES RI,0,2,3,3
+PARIS,Catho de Paris - ICP,Licence de droit - Campus de Paris,250,43,DROIT,SC. POLITIQUES RI,0,2,3,4
+REIMS,Catho de Paris - ICP,Reims – Licence de droit,90,73,DROIT,SC. POLITIQUES RI,0,2,3,3
+ROUEN,Catho de Paris - ICP,Rouen – Licence de droit,90,79,DROIT,SC. POLITIQUES RI,0,2,3,3
+ISSY-LES-MOULINEAUX,Institut Catholique de Lille,Licence de Droit Parcours droit et culture juridique - Issy les Moulineaux,150,99,DROIT,SC. POLITIQUES RI,0,2,3,3
+ISSY-LES-MOULINEAUX,Institut Catholique de Lille,Licence de Droit – Parcours Multilingue droit international et Européen Issy Les Moulineaux,90,96,DROIT,SC. POLITIQUES RI,1,2,3,4
+LILLE,Institut Catholique de Lille,Licence de Droit - Parcours droit et culture juridique – Lille,250,80,DROIT,SC. POLITIQUES RI,0,2,3,4
+LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Multilingue droit international et Européen - Lille,157,61,DROIT,SC. POLITIQUES RI,1,2,3,4
+LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Droit et Science Politique Lille,157,52,DROIT,SC. POLITIQUES RI,0,2,3,4
+LILLE,Institut Catholique de Lille,"ESPOL - Licence de Science Politique – Parcours Philosophie, Politique et Économique (PPE)",105,70,SC.POLITIQUE RI,SCIENCES SOCIALES,1,3,3,4
+LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Licence Européenne de Science Politique,190,49,SC.POLITIQUE RI,SCIENCES SOCIALES,1,3,3,4
+LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Relations internationales,180,26,SC.POLITIQUE RI,SCIENCES SOCIALES,1,3,4,4
+PARIS,Catho de Paris - ICP,Licence d'Histoire - Parcours Histoire et Science Politique,220,38,HISTOIRE,SC. POLITIQUES RI,0,2,4,4
+PARIS,Catho de Paris - ICP,Licence de Philosophie,50,100,HUMANITES,PHILOSOPHIE,0,2,3,3
+PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence de Philosophie + Bachelor Science Politique, Géopolitique et Humanités",,,SC.POLITIQUE RI,PHILOSOPHIE,0,4,5,4
+PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence d'Histoire + Bachelor Science Politique, Géopolitique et Humanités",,,SC.POLITIQUE RI,HISTOIRE,0,4,5,4
+PARIS,Paris II Panthéon Assas/ISIT,Master de Juriste Linguiste Bac + 5,,,DROIT,LANGUES,1,3,4,4
+PARIS,Paris II Panthéon Assas,Licence de Sciences Politiques,120,9,SC.POLITIQUE RI,,0,4,5,5
+PARIS,Paris II Panthéon Assas,Licence de droit - Collège de Droit,75,8,DROIT,SC. POLITIQUES RI,0,4,5,5
+PARIS,Paris I Panthéon Sorbonne,Licence de Sciences Politiques,75,5,SC.POLITIQUE RI,SC. POLITIQUES RI,0,4,5,5
+PARIS,Paris I Panthéon Sorbonne,Licence de droit - Collège de Droit,,,DROIT,,0,4,5,5
+NANTERRE,Paris Nanterre,Licence de Sciences Politiques,130,16,SC.POLITIQUE RI,,0,4,4,5
+PARIS,Lycée Henri IV - Université PSL,CPES Humanités et Société,35,15,SC.POLITIQUE RI,HUMANITES,0,4,5,5
+PARIS,Paris I Panthéon Sorbonne,Licence d'Economie,,,ECONOMIE,ECONOMIE,0,3,3,3
+PARIS,Paris I Panthéon Sorbonne,Licence de Gestion,725,54,ECONOMIE GESTION,GESTION,0,3,3,3
+PARIS,Paris I Panthéon Sorbonne,Double Licence Droit et Économie Gestion,,,DROIT,ÉCONOMIE GESTION,0,4,4,4
+PARIS,Paris I Panthéon Sorbonne,Double Licence Économie et Science Politique,,,ECONOMIE GESTION,SC. POLITIQUES RI,0,4,5,4
+PARIS,Paris II Panthéon Assas,Licence d'Économie et Gestion,350,24,ECONOMIE GESTION,ECONOMIE,0,3,4,3
+PARIS,Paris II Panthéon Assas,Collège d'Économie - Filière Ingénierie en Analyse Economique,35,20,ECONOMIE GESTION,MATHEMATIQUES,0,4,5,4
+PARIS,Paris II Panthéon Assas,Collège d'Économie - Filière Economie et Droit,35,25,ECONOMIE GESTION,DROIT,0,4,5,4
+PARIS,Paris Saclay,Portail Économie Gestion - Parcours Économie et Finance,170,62,ÉCONOMIE GESTION,MATHEMATIQUES,0,3,3,3
+PARIS,Paris II Panthéon Assas,Double Licence Droit et Économie Gestion,,,ÉCONOMIE GESTION,DROIT,0,3,4,4
+PARIS,Paris II Panthéon Assas,CMI Efiquas,35,14,ÉCONOMIE GESTION,MATHEMATIQUES,0,3,4,4
+PARIS,Paris Cité,Licence d'Économie Gestion,215,35,ÉCONOMIE GESTION,,0,2,3,3
+PARIS,Paris Cité,Licence d'Économie et Sciences Sociales,,,ÉCONOMIE GESTION,SCIENCES SOCIALES,0,2,3,4
+PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Paris,600,18,ÉCONOMIE GESTION,,0,4,5,4
+PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Paris Talents,,,ÉCONOMIE GESTION,,0,4,5,4
+LONDRES,Université Paris Dauphine,Licence en Sciences des Organisations Londres,75,30,ÉCONOMIE GESTION,,1,4,5,4
+MADRID,Université Paris Dauphine,Licence en Sciences des Organisations Madrid,35,27,ÉCONOMIE GESTION,,1,4,5,4
+PARIS,Université Paris Dauphine,Licence Mathématiques et Informatique Paris,,,MATHEMATIQUES,INFO. - DATA SCIENCE - IA,0,4,5,4
+PARIS,Université Paris Dauphine,Licence Mathématiques et Informatique Paris Talents,,,MATHEMATIQUES,INFO. - DATA SCIENCE - IA,0,4,5,4
+PARIS,Université Paris Dauphine,Double Licence Sciences des Organisations et Intelligence Artificielle,,,ÉCONOMIE GESTION,INFO. - DATA SCIENCE - IA,0,4,5,4
+PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Parcours Franco-Allemand,,,ÉCONOMIE GESTION,,1,4,5,4
+NANTERRE,Paris Nanterre,Licence d'Économie et Gestion,430,56,ÉCONOMIE GESTION,,0,3,3,3
+NANTERRE,Paris Nanterre,Double Licence d'Économie Gestion - Cursus int. franco-anglais,90,43,ÉCONOMIE GESTION,,1,3,3,4
+NANTERRE,Paris Nanterre,Licence d'Économie Gestion CMI Data Science for Social Science D3S,,,ÉCONOMIE GESTION,INFO. - DATA SCIENCE - IA,0,3,4,3
+LILLE,Institut Catholique de Lille,Licence d'Économie - Parcours Économie et Finance,,,ÉCONOMIE GESTION,,0,3,3,2
+LILLE,Institut Catholique de Lille,Licence Internationale d'Économie Gestion,150,84,ÉCONOMIE GESTION,,1,2,3,2
+LILLE,Institut Catholique de Lille,Licence de Gestion,150,95,ÉCONOMIE GESTION,,0,2,2,2
+LYON,EM Lyon,SESAME Global BBA - Bac +4,505,49,COMMERCE,MNGT GENERAL,1,2,2,2
+LYON,EM Lyon,SESAME Global BBA - Bac +4 - Distanciel,,,COMMERCE,MNGT GENERAL,0,2,2,2
+CERGY PONTOISE,ESSEC,SESAME Global BBA - Bac +4 - Track Anglophone,145,8,COMMERCE,MNGT GENERAL,1,3,4,3
+SINGAPOUR,ESSEC,SESAME Global BBA - Bac +4 - Singapour,,,COMMERCE,MNGT GENERAL,1,3,5,3
+CERGY PONTOISE,ESSEC,SESAME Global BBA - Bac +4 - Track Francophone,270,12,COMMERCE,MNGT GENERAL,0,3,3,3
+RABAT,ESSEC,SESAME Global BBA - Bac +4 - Track Francophone - Rabat,,,COMMERCE,MNGT GENERAL,1,3,3,3
+ARCUEIL,EXCELIA,SESAME BBA international English Track Arcueil - La Rochelle,,,COMMERCE,MNGT GENERAL,1,2,2,2
+LA ROCHELLE,EXCELIA,SESAME BBA international French Track - La Rochelle,,,COMMERCE,MNGT GENERAL,0,2,2,2
+GRENOBLE,Grenoble Ecole de Management,SESAME International BBA - Bac +4,100,,COMMERCE,MNGT GENERAL,1,2,2,2
+,KEDGE,SESAME International BBA - Bac +4 - Marseille - Paris,150,57,COMMERCE,MNGT GENERAL,1,2,3,2
+,NEOMA,SESAME Global BBA - Bac +4 - Rouen - Reims - Paris,280,53,COMMERCE,MNGT GENERAL,1,2,3,2
+REIMS,NEOMA,SESAME CESEM Double Diplôme Bac + 4 Immersion Europe,85,63,COMMERCE,MNGT GENERAL,1,2,3,2
+REIMS,NEOMA,SESAME CESEM Double Diplôme Bac +4 Immersion Amériques,85,50,COMMERCE,MNGT GENERAL,1,2,3,2
+PARIS,NEOMA,SESAME CESEM Double Diplôme Bac +4 Immersion Asie,50,51,COMMERCE,MNGT GENERAL,1,2,3,2
+TROYES,SCBS,SESAME International BBA - Bac +4,,,COMMERCE,MNGT GENERAL,0,1,2,2
+,SKEMA,SESAME BBA Bac+4 in Global Management Bac +4 Lille - Valbonne (Sophia Antipolis),350,55,COMMERCE,MNGT GENERAL,0,2,2,2
+PARIS,EBS - ex European Business School,SESAME - Programme Grande Ecole Bac + 5 - French Track,,,COMMERCE,MNGT GENERAL,0,4,1,1
+,EBS - ex European Business School,SESAME - Programme Grande Ecole Bac + 5 - European Track,,,COMMERCE,MNGT GENERAL,1,4,1,1
+PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - Luxury Management,,,COMMERCE,LUXE MODE,0,4,1,1
+PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - International Track,,,COMMERCE,MNGT GENERAL,1,4,1,1
+PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - French Track,,,COMMERCE,MNGT GENERAL,0,4,1,1
+PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - Global Sports Track - Talents,,,COMMERCE,MNGT GENERAL,0,4,1,1
+COURBEVOIE,EMLV,SESAME - Programme Grande Ecole Bac + 5 - International Track,150,46,COMMERCE,MNGT GENERAL,1,3,3,2
+COURBEVOIE,EMLV,Bachelor Business et Affaires Internationales,,,COMMERCE,SC. POLITIQUES RI,0,2,3,3
+COURBEVOIE,EMLV,SESAME - Programme Grande Ecole Bac +5,,,COMMERCE,MNGT GENERAL,0,2,3,2
+PARIS - CLICHY,EM Normandie,SESAME PGE Campus de Clichy Track Anglophone,600,55,COMMERCE,MNGT GENERAL,1,2,2,1
+PARIS - CLICHY,EM Normandie,SESAME PGE Campus de Clichy Track Francophone,600,55,COMMERCE,MNGT GENERAL,0,2,2,1
+OXFORD,EM Normandie,SESAME PGE Track Anglophone Oxford,70,54,COMMERCE,MNGT GENERAL,1,2,2,1
+CAEN,EM Normandie,SESAME PGE Track Anglophone Caen,150,58,COMMERCE,MNGT GENERAL,0,2,2,1
+CAEN,EM Normandie,SESAME PGE Track Francophone Caen,150,58,COMMERCE,MNGT GENERAL,0,2,2,1
+DUBLIN,EM Normandie,SESAME PGE Track Anglophone Dublin,,,COMMERCE,MNGT GENERAL,1,2,2,1
+PARIS - CLICHY,EM Normandie,SESAME International BBA Bac + 4 Paris,,,COMMERCE,MNGT GENERAL,1,2,2,1
+LE HAVRE,EM Normandie,Bac+3 - Bachelor en Management International,,,COMMERCE,MNGT GENERAL,0,1,2,1
+CLERMONT FERRAND,ESC Clermont Business School,Bac + 3 - Bachelor en Communication Digitale et E-Business,,,COMMERCE,DIGITAL E-BUSINESS,0,1,1,1
+CLERMONT FERRAND,ESC Clermont Business School,Bac + 3 - Bachelor en Management International,,,COMMERCE,MNGT GENERAL,0,1,1,1
+,ESSCA,ACCES -Programme Grande Ecole Bac + 5 - Boulogne - Marseille - Lyon - Angers - Bordeaux - Strasbourg - Paris,200,65,COMMERCE,MNGT GENERAL,0,2,2,1
+PARIS,ESSCA,Bac + 3 - Bachelor en Management International Track Anglophone,70,76,COMMERCE,MNGT GENERAL,1,2,2,1
+,ESSCA,Bac + 3 - Bachelor en Management International Track Francophone - Aix - Bordeaux - Strasbourg - Lyon - Angers,130,75,COMMERCE,MNGT GENERAL,0,1,2,1
+GRENOBLE,Grenoble Ecole de Management,Bac + 3 - Bachelor in International Business,,,COMMERCE,MNGT GENERAL,0,2,2,1
+PARIS LA DEFENSE,ESCE,SESAME PGE Bac + 5 - Sciences Politiques Int. - La Défense,,,COMMERCE,SC. POLITIQUES RI,0,1,2,1
+LYON,ESCE,SESAME PGE Bac +5 - Sciences Politiques Int. - Lyon 7e,,,COMMERCE,SC. POLITIQUES RI,0,1,2,1
+"PARIS, LYON",ESCE,SESAME PGE - Cursus Int. Business - Francophone - Paris La Défense ou Lyon,60,37,COMMERCE,MNGT GENERAL,0,1,2,1
+"PARIS , LYON",ESCE,SESAME PGE - Cursus International Business - Trilingue Paris ou Lyon,30,34,COMMERCE,MNGT GENERAL,1,1,2,1
+"PARIS, LYON",ESCE,SESAME PGE - Cursus Int. Business - Anglophone - Paris La Défense Lyon,,,COMMERCE,MNGT GENERAL,1,1,2,1
+PARIS,ICD,SESAME PGE- Track International Paris,,,COMMERCE,MNGT GENERAL,1,1,2,1
+TOULOUSE,ICD,SESAME PGE- Track International Toulouse,,,COMMERCE,MNGT GENERAL,1,1,2,1
+PARIS,IPAG,"SESAME Track Geopolitique, communication et Sciences Politiques",,,COMMERCE,SC. POLITIQUES RI,0,1,1,1
+,IPAG,SESAME PGE Bac+5 Main Track Campus de Paris-Nice,,,COMMERCE,MNGT GENERAL,0,1,1,1
+,IPAG,SESAME PGE Bac+5 American Track Campus de Paris-Nice,,,COMMERCE,MNGT GENERAL,1,1,1,1
+NICE,IPAG,SESAME PGE Bac+5 Management et Ingénierie,,,COMMERCE,INGENIEUR,0,1,1,1
+BORDEAUX,KEDGE,SESAME - Programme Grande Ecole Bac + 5 - EBP International,270,55,COMMERCE,MNGT GENERAL,0,2,2,2
+,NEOMA,SESAME TEMA – PGE Bac +5 Innovation et Digital Management - Paris - Reims - Rouen,120,60,COMMERCE,DIGITAL E-BUSINESS,0,2,2,2
+PARIS,PSB Paris School of Business,SESAME PGE Bac+5 - International Track – Paris 13e,,,COMMERCE,MNGT GENERAL,1,1,1,1
+PARIS,PSB Paris School of Business,SESAME PGE Bac+5 - French Track – Paris 13e,,,COMMERCE,MNGT GENERAL,0,1,1,1
+MILAN,PSB Paris School of Business,"SESAME PGE Bac+5 - European Track –Milan, Munich puis Londres",30,,COMMERCE,MNGT GENERAL,1,1,1,1
+,EDHEC,International BBA Bac + 4 - Parcours Global Business Nice/USA/Singapour,20,7,COMMERCE,MNGT GENERAL,1,4,5,3
+"NICE, LILLE",EDHEC,"International BBA Bac +4 - Parcours Business Management - French Track Nice,Lille",225,44,COMMERCE,MNGT GENERAL,0,3,3,3
+"NICE, LILLE",EDHEC,"International BBA Bac +4 - Parcours Business Management - English Track Nice,Lille",120,20,COMMERCE,MNGT GENERAL,1,3,4,3
+ISSY LES MOULINEAUX -LILLE,EDHEC - CATHO DE LILLE,International BBA Bac+4 - Parcours International Law et Finance - Double Diplôme Licence Droit – Issy les Moulineaux/Lille (48 places – 63%),48,60,COMMERCE,DROIT,0,3,4,4
+,EDHEC - UTCompiègne,International BBA Bac+4 – Parcours double diplôme en Ingénierie Digitale et Management,40,,COMMERCE,INFO. - DATA SCIENCE - IA,0,3,4,3
+"PARIS, LILLE",IESEG,ACCES PGE Bac+5 - Campus de Paris ou Lille,600,40,COMMERCE,MNGT GENERAL,0,3,3,3
+"PARIS, LILLE",IESEG,Bac + 3 - Bachelor in International Business Paris ou Lille,60,85,COMMERCE,MNGT GENERAL,1,2,3,3
+PARIS SAINT OUEN,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Parcours Francophone,,,COMMERCE,MNGT GENERAL,0,1,1,1
+NANTES,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Parcours Francophone,,,COMMERCE,MNGT GENERAL,0,1,1,1
+NANTES,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Global Business Track Anglophone,,,COMMERCE,MNGT GENERAL,0,1,1,1
+PARIS SAINT OUEN,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Global Business Track Anglophone,,,COMMERCE,MNGT GENERAL,0,1,1,1
+PARIS,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Paris,200,79,COMMERCE,MNGT GENERAL,0,1,1,1
+TOULOUSE,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Toulouse,400,81,COMMERCE,MNGT GENERAL,0,1,1,1
+BARCELONE,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Barcelone,40,80,COMMERCE,MNGT GENERAL,0,1,1,1
+PARIS,ISC - Institut Supérieur de Commerce,Bac+3 - Bachelor en Management Paris,200,68,COMMERCE,MNGT GENERAL,0,1,1,1
+ORLEANS,ISC - Institut Supérieur de Commerce,Bac+3 - Bachelor en Management Orléans,200,68,COMMERCE,MNGT GENERAL,0,1,1,1
+PARIS,ESCP,Bac+3 - Bachelor of Science in Management - Paris,,,COMMERCE,MNGT GENERAL,1,3,3,3
+,ESCP,Bac+3 - Bachelor of Science in Management - 1ère année Turin ou Londres,,,COMMERCE,MNGT GENERAL,1,3,3,3
