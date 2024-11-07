@@ -1,3 +1,5 @@
+import os
+
 from backend.app.comet_predictor.generator import generate_possible_wishes
 from backend.app.comet_predictor.models import (
     PARSED_PROFILE,
@@ -9,7 +11,7 @@ from backend.app.comet_predictor.models import (
 def test_generate_possible_wishes():
 
     possible_wishes, impossible_wishes = generate_possible_wishes(
-        PARSED_PROFILE, requirement_file_path="test_data/test_data_wish_list.csv"
+        PARSED_PROFILE, requirement_file_path=os.environ["TEST_WISH_LIST_DATA_PATH"]
     )
 
     for wish in POSSIBLE_WISHES:
