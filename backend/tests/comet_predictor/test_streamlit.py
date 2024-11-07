@@ -51,4 +51,4 @@ def test_streamlit_user_input():
         for wish in IMPOSSIBLE_WISHES:
             assert (
                 wish in impossible_wishes
-            ), "Error with incorrect parsing of impossible wishes."
+            ), "Error with incorrect parsing of impossible wishes. "
