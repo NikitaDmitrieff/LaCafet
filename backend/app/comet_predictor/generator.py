@@ -1,4 +1,5 @@
-from typing import List
+import json
+from typing import List, Tuple
 
 import pandas as pd
 
@@ -23,6 +24,11 @@ def _hard_requirement_parser(
                 if profile[requirement_name] < requirement_value:
                     can_apply = False
                     break
+            elif requirement_name in ["subjects 1"]:
+                for subject in json.loads(requirement_value.replace("'", '"')):
+                    if subject not in profile[requirement_name]:
+                        can_apply = False
+                        break
 
         if can_apply:
             possible_wishes.append(row.to_dict())
@@ -34,7 +40,7 @@ def _hard_requirement_parser(
 
 def generate_possible_wishes(
     profile: dict, requirement_file_path: str = "data_wish_list/parsed_wish_list.csv"
-) -> List[dict]:
+) -> Tuple[List[dict], List[dict]]:
     """
     Main function for retrieving the possible wishes for a certain profile:
         Calls hard_requirement parser
@@ -42,14 +48,16 @@ def generate_possible_wishes(
     Args:
         profile: dict with the user's grades and sections
         requirement_file_path: str leading to the requirement csv file
+    returns:
+        possible_wishes: List
+        impossible_wishes: List
     """
 
-    # Parse though hard requirements
     requirements_df = pd.read_csv(requirement_file_path)
-    possible_wishes = _hard_requirement_parser(
+
+    # Parse though hard grade requirements
+    possible_wishes, impossible_wishes = _hard_requirement_parser(
         requirements_df=requirements_df, profile=profile
     )
 
-    # Other parsing
-
-    return possible_wishes
+    return possible_wishes, impossible_wishes

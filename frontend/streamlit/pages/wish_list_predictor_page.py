@@ -1,20 +1,30 @@
 import os
 
+import pandas as pd
 import streamlit as st
+from dotenv import load_dotenv
 
-from backend.app.comet_predictor.streamlit_utils import convert_to_example_format
+from backend.app.comet_predictor.generator import generate_possible_wishes
 
-st.markdown(f"{os.getcwd()}")
+load_dotenv()
+
 st.markdown("# Wish list predictor")
-# Page and Sidebar titles
 st.sidebar.markdown("# Wish list predictor")
 
 
 def streamlit_user_input():
     # Dictionary to store the user responses
-    responses = {}
-
-    st.title("Enter Your Academic and Subject Data")
+    responses = {
+        "section 1": "error - no response",
+        "section 2": "error - no response",
+        "subjects 1": "error - no response",
+        "subjects 2": "[]",
+        "subjects 3": "[]",
+        "international": "error - no response",
+        "relative overall average": "error - no response",
+        "absolute value overall average": "error - no response",
+        "french grade": "error - no response",
+    }
 
     # Filière 1 and Filière 2
     filiere_1_options = [
@@ -26,7 +36,7 @@ def streamlit_user_input():
         "ECONOMIE GESTION",
         "MATHEMATIQUES",
         "COMMERCE",
-        "None",  # In place of 0
+        "None",
     ]
 
     filiere_2_options = [
@@ -48,12 +58,17 @@ def streamlit_user_input():
         "INGENIEUR",
     ]
 
-    responses["FILIERE 1"] = st.selectbox("Filière 1", filiere_1_options)
-    responses["FILIERE 2"] = st.selectbox("Filière 2", filiere_2_options)
+    responses["section 1"] = st.selectbox("Filière 1", filiere_1_options)
+    responses["section 2"] = st.selectbox("Filière 2", filiere_2_options)
+
+    # Question about International Option
+    responses["international"] = st.radio(
+        "Do you have the International Option?", ("Yes", "No")
+    )
+    responses["international"] = [1 if responses["international"] == "Yes" else 0][0]
 
     # Subject options to be selected with multi-select
     subject_options = [
-        "INTERNATIONAL/ANGLAIS",
         "Maths",
         "PC",
         "SVT",
@@ -71,26 +86,39 @@ def streamlit_user_input():
     ]
 
     # Multi-select box to allow users to select up to 3 subjects
-    responses["Selected Subjects"] = st.multiselect(
-        "Select up to 3 Subjects",
+    responses["subjects 1"] = st.multiselect(
+        "Indique tes options:",
         options=subject_options,
         default=None,
         max_selections=3,
     )
 
-    # Handling for "moyenne" fields with sliders and text inputs
-    st.subheader("moyenne générale Thresholds")
-    responses["moyenne générale"] = st.slider(
-        "Moyenne générale (0 to 20)",
-        0,
-        20,
+    st.subheader("Tes notes:")
+    responses["absolute value overall average"] = st.slider(
+        "Moyenne générale en valeur absolue", 1, 5, value=3
     )
-    responses["moyenne de français"] = st.slider(
-        "Moyenne de français (0 to 20)",
-        0,
-        20,
+    responses["relative overall average"] = st.slider(
+        "Moyenne générale par rapport à la classe", 1, 5, value=3
     )
+    responses["french grade"] = st.slider("Notes de Français", 1, 5, value=3)
 
     # Submit button
     if st.button("Submit"):
-        return convert_to_example_format(responses)
+        print(len(responses))
+        print(type(responses))
+        print(responses)
+        return responses
+
+
+profile_dict = streamlit_user_input()
+
+
+if profile_dict:
+
+    possible_wishes, impossible_wishes = generate_possible_wishes(
+        profile_dict, requirement_file_path=os.environ["WISH_LIST_DATA_PATH"]
+    )
+
+    f"Number of possible wishes: {len(possible_wishes)}"
+    f"Number of impossible wishes: {len(impossible_wishes)}"
+    st.dataframe(pd.DataFrame(possible_wishes))
