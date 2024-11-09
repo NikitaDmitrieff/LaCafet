@@ -16,10 +16,10 @@ def _hard_requirement_parser(
         for requirement_name, requirement_value in row.to_dict().items():
 
             if requirement_name in [
-                "international",
                 "relative overall average",
                 "absolute value overall average",
                 "french grade",
+                "math level",
             ]:
                 if profile[requirement_name] < requirement_value:
                     can_apply = False
@@ -29,6 +29,15 @@ def _hard_requirement_parser(
                     if subject not in profile[requirement_name]:
                         can_apply = False
                         break
+            elif requirement_name in ["section 1"]:
+                section_match = any(
+                    section in [profile["section 1"], profile["section 2"]]
+                    for section in [row["section 1"], row["section 2"]]
+                )
+
+                if not section_match:
+                    can_apply = False
+                    break
 
         if can_apply:
             possible_wishes.append(row.to_dict())

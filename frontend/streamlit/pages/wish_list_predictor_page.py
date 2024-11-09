@@ -63,7 +63,7 @@ def streamlit_user_input():
 
     # Question about International Option
     responses["international"] = st.radio(
-        "Do you have the International Option?", ("Yes", "No")
+        "Veux-tu suivre un cursus international?", ("Oui", "non")
     )
     responses["international"] = [1 if responses["international"] == "Yes" else 0][0]
 
@@ -101,6 +101,18 @@ def streamlit_user_input():
         "Moyenne générale par rapport à la classe", 1, 5, value=3
     )
     responses["french grade"] = st.slider("Notes de Français", 1, 5, value=3)
+
+    # Select box for math level
+    responses["math level"] = st.selectbox(
+        "Math Level",
+        options=[0, 1, 2, 3],
+        format_func=lambda x: {
+            0: "0 (Pas de Maths)",
+            1: "1 (Option: Maths complémentaires)",
+            2: "2 (Spé Maths)",
+            3: "3 (Spé Maths et option maths expertes)",
+        }.get(x, "Unknown"),
+    )
 
     # Submit button
     if st.button("Submit"):
