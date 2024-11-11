@@ -24,11 +24,13 @@ def _hard_requirement_parser(
                 if profile[requirement_name] < requirement_value:
                     can_apply = False
                     break
+
             elif requirement_name in ["subjects 1"]:
                 for subject in json.loads(requirement_value.replace("'", '"')):
                     if subject not in profile[requirement_name]:
                         can_apply = False
                         break
+
             elif requirement_name in ["section 1"]:
                 section_match = any(
                     section in [profile["section 1"], profile["section 2"]]
