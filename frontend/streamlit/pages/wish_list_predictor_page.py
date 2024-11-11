@@ -1,12 +1,12 @@
-import os
-
 import pandas as pd
 import streamlit as st
-from dotenv import load_dotenv
+
+import config
+
+config.ANCHOR
 
 from backend.app.comet_predictor.generator import generate_possible_wishes
 
-load_dotenv()
 
 st.markdown("# Wish list predictor")
 st.sidebar.markdown("# Wish list predictor")
@@ -128,7 +128,7 @@ profile_dict = streamlit_user_input()
 if profile_dict:
 
     possible_wishes, impossible_wishes = generate_possible_wishes(
-        profile_dict, requirement_file_path=os.environ["WISH_LIST_DATA_PATH"]
+        profile_dict, requirement_file_path=config.WISH_LIST_DATA_PATH
     )
 
     f"Number of possible wishes: {len(possible_wishes)}"

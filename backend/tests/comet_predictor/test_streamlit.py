@@ -1,12 +1,7 @@
-import os
 from unittest.mock import patch
 
+import config
 from backend.app.comet_predictor.generator import generate_possible_wishes
-from backend.app.comet_predictor.models import (
-    PARSED_PROFILE,
-    POSSIBLE_WISHES,
-    IMPOSSIBLE_WISHES,
-)
 from frontend.streamlit.pages.wish_list_predictor_page import streamlit_user_input
 
 
@@ -40,7 +35,7 @@ def test_streamlit_user_input():
         ), f"Test failed! Expected {PARSED_PROFILE}, but got {responses}"
 
         possible_wishes, impossible_wishes = generate_possible_wishes(
-            responses, requirement_file_path=os.environ["TEST_WISH_LIST_DATA_PATH"]
+            responses, requirement_file_path=config.WISH_LIST_DATA_PATH
         )
 
         for wish in POSSIBLE_WISHES:

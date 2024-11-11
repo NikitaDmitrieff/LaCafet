@@ -1,12 +1,7 @@
-import os
-
 import pandas as pd
-from dotenv import load_dotenv
 
 import config
 from backend.app.comet_predictor.generator import generate_possible_wishes
-
-load_dotenv()
 
 
 def test_generate_possible_wishes():
@@ -34,8 +29,8 @@ def test_generate_possible_wishes():
 
 
 def test_test_data_wish_list():
-    test_df = pd.read_csv(os.environ["TEST_WISH_LIST_DATA_PATH"])
-    prod_df = pd.read_csv(os.environ["WISH_LIST_DATA_PATH"])
+    test_df = pd.read_csv(config.TEST_WISH_LIST_DATA_PATH)
+    prod_df = pd.read_csv(config.WISH_LIST_DATA_PATH)
 
     # Check for column equality (ignoring order)
     assert set(test_df.columns) == set(

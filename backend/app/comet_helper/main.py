@@ -4,6 +4,7 @@ from typing import List, Optional
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 
+import config
 from backend.app.comet_helper.chat_utils import (
     basic_inquiry,
     create_full_chain,
@@ -24,7 +25,7 @@ class GuidanceCounselor:
 
     def __init__(
         self,
-        pdf_directory=os.getenv("COMET_HELPER_DATA_PATH"),
+        pdf_directory=config.COMET_HELPER_DATA_PATH,
         system_template: str = SYSTEM_PROMPT_TEMPLATE,
         user_template: str = USER_PROMPT_TEMPLATE,
         vector_store_chunk_size_in_tokens: int = 250,

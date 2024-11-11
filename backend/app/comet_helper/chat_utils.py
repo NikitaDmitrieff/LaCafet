@@ -1,7 +1,6 @@
 import os
 from functools import reduce
 
-from dotenv import load_dotenv
 from langchain.document_loaders import PyPDFLoader
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.output_parsers import StrOutputParser
@@ -9,9 +8,8 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langsmith import traceable
 
+import config
 from backend.app.comet_helper.rag_pipeline import get_context
-
-load_dotenv()
 
 
 @traceable()
@@ -31,7 +29,6 @@ def load_embedding(embedding_type=None):
     if not embedding_type:
         embedding_type = "gpt-4o-mini"
 
-    # os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY Already done with .env
     model = OpenAIEmbeddings()
 
     return model
@@ -81,7 +78,7 @@ def form_chain_from_links(*args):
 def create_full_chain(
     system_template: str = "You are a guidance counselor, be informative and encouraging.",
     user_template: str = "{text}",
-    pdf_directory: str = os.getenv("COMET_HELPER_DATA_PATH"),
+    pdf_directory: str = config.COMET_HELPER_DATA_PATH,
     model_type: str = None,
 ):
     context_link = get_context(
@@ -96,7 +93,7 @@ def create_full_chain(
 
 
 def load_pdf_documents(
-    pdf_directory=os.getenv("COMET_HELPER_DATA_PATH"),
+    pdf_directory=config.COMET_HELPER_DATA_PATH,
 ):
 
     # Load all PDF files from the directory
