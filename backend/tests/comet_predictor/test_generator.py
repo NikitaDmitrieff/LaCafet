@@ -3,30 +3,33 @@ import os
 import pandas as pd
 from dotenv import load_dotenv
 
+import config
 from backend.app.comet_predictor.generator import generate_possible_wishes
-from backend.app.comet_predictor.models import (
-    PARSED_PROFILE,
-    POSSIBLE_WISHES,
-    IMPOSSIBLE_WISHES,
-)
 
 load_dotenv()
 
 
 def test_generate_possible_wishes():
 
+    profile_df = pd.read_csv(config.TEST_PROFILE_WISH_LIST_DATA_PATH)
+    profile = {
+        key: value[0]
+        for key, value in profile_df.to_dict().items()
+        if f"{value[0]}" not in "profile"
+    }
+
     possible_wishes, impossible_wishes = generate_possible_wishes(
-        PARSED_PROFILE, requirement_file_path=os.environ["TEST_WISH_LIST_DATA_PATH"]
+        profile, requirement_file_path=config.TEST_WISH_LIST_DATA_PATH
     )
 
-    for wish in POSSIBLE_WISHES:
+    for wish in possible_wishes:
         assert (
-            wish in possible_wishes
+            "pass" in wish["wish name"]
         ), "Error with incorrect parsing of possible wishes."
 
-    for wish in IMPOSSIBLE_WISHES:
+    for wish in impossible_wishes:
         assert (
-            wish in impossible_wishes
+            "fail" in wish["wish name"]
         ), "Error with incorrect parsing of impossible wishes."
 
 

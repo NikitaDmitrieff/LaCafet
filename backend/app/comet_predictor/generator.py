@@ -3,6 +3,28 @@ from typing import List, Tuple
 
 import pandas as pd
 
+import config
+
+
+def create_wish_list_data_files():
+
+    raw_df = pd.read_csv(config.RAW_WISH_LIST_DATA_PATH)
+    raw_df = raw_df.loc[:, ~raw_df.columns.str.contains("^Unnamed")]
+
+    profile_df = raw_df[raw_df["place"].str.contains("profile", case=False, na=False)]
+    profile_df.to_csv(config.TEST_PROFILE_WISH_LIST_DATA_PATH)
+
+    raw_df = raw_df[~raw_df["place"].str.contains("profile", case=False, na=False)]
+    prod_df = raw_df[~raw_df["place"].str.contains("test", case=False, na=False)]
+    prod_df.to_csv(config.WISH_LIST_DATA_PATH)
+    test_df = raw_df[raw_df["place"].str.contains("test", case=False, na=False)]
+    test_df.to_csv(config.TEST_WISH_LIST_DATA_PATH)
+
+    return
+
+
+create_wish_list_data_files()
+
 
 def _hard_requirement_parser(
     requirements_df: pd.DataFrame, profile: dict

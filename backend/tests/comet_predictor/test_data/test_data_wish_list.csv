@@ -1,4 +1,5 @@
-place,institution,wish name,number of spots,admission percentage,international,section 1,section 2,subjects 1,subjects 2,subjects 3,relative overall average,absolute value overall average,french grade,math level
-place 1,easy institution,easy wish name 1,972,99,DROIT,SC. POLITIQUES RI,[],"[]",[],0,0,0,0,0
-place 2,very selective institution grade trigger,very selective wish name 2,10,1,DROIT,SC. POLITIQUES RI,"[]",[],[],1,5,5,5,0
-place 3,very selective institution math trigger,very selective wish name 2,10,1,DROIT,SC. POLITIQUES RI,"['MATHS EXPERTES']",['SES'],[],0,0,0,0,3
+,place,institution,wish name,number of spots,admission percentage,international,section 1,section 2,subjects 1,subjects 2,subjects 3,relative overall average,absolute value overall average,french grade,math level
+1,TEST baseline,No Trigger,pass,972,99,0,DROIT,SC. POLITIQUES RI,[],[],[],0,0,0,0
+2,TEST 1,Grade Trigger,fail,10,1,0,DROIT,SC. POLITIQUES RI,[],[],[],5,5,5,0
+3,TEST 2,Math Trigger,fail,10,1,0,DROIT,SC. POLITIQUES RI,[],[],[],0,0,0,3
+4,TEST 3,Subjects 1 Trigger,fail,10,1,0,DROIT,SC. POLITIQUES RI,['SES'],[],[],0,0,0,0

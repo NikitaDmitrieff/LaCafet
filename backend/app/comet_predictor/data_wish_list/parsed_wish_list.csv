@@ -1,128 +1,128 @@
-place,institution,wish name,number of spots,admission percentage,international,section 1,section 2,subjects 1,subjects 2,subjects 3,relative overall average,absolute value overall average,french grade,math level
-PARIS,Paris II Panthéon Assas,Licence de droit,972,16,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
-PARIS,Paris I Panthéon Sorbonne,Licence de droit,745,16,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
-PARIS,Paris I Panthéon Sorbonne,Double Licence Droit et Science Politique,60,5,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
-NANTERRE,Paris Nanterre,Licence de droit,770,53,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,0
-NANTERRE,Paris Nanterre,Licence de droit Français - droit étranger - Droit français Common Law,115,26,1,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,3,4,0
-PARIS,Paris Cité,Licence de droit,527,38,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
-PARIS,Catho de Paris - ICP,Licence de droit - Campus de Paris,250,43,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
-REIMS,Catho de Paris - ICP,Reims – Licence de droit,90,73,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
-ROUEN,Catho de Paris - ICP,Rouen – Licence de droit,90,79,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
-ISSY-LES-MOULINEAUX,Institut Catholique de Lille,Licence de Droit Parcours droit et culture juridique - Issy les Moulineaux,150,99,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
-ISSY-LES-MOULINEAUX,Institut Catholique de Lille,Licence de Droit – Parcours Multilingue droit international et Européen Issy Les Moulineaux,90,96,1,DROIT,SC. POLITIQUES RI,[],"['HLP', 'LLCE', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
-LILLE,Institut Catholique de Lille,Licence de Droit - Parcours droit et culture juridique – Lille,250,80,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
-LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Multilingue droit international et Européen - Lille,157,61,1,DROIT,SC. POLITIQUES RI,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
-LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Droit et Science Politique Lille,157,52,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
-LILLE,Institut Catholique de Lille,"ESPOL - Licence de Science Politique – Parcours Philosophie, Politique et Économique (PPE)",105,70,1,SC.POLITIQUE RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,1
-LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Licence Européenne de Science Politique,190,49,1,SC.POLITIQUE RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,0
-LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Relations internationales,180,26,1,SC.POLITIQUE RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
-PARIS,Catho de Paris - ICP,Licence d'Histoire - Parcours Histoire et Science Politique,220,38,0,HISTOIRE,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,4,4,0
-PARIS,Catho de Paris - ICP,Licence de Philosophie,50,100,0,HUMANITES,PHILOSOPHIE,[],"['HGGSP', 'HLP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
-PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence de Philosophie + Bachelor Science Politique, Géopolitique et Humanités",,,0,SC.POLITIQUE RI,PHILOSOPHIE,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,4,1
-PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence d'Histoire + Bachelor Science Politique, Géopolitique et Humanités",,,0,SC.POLITIQUE RI,HISTOIRE,[],"['HLP', 'SES', 'HGGSP']",[],4,5,4,1
-PARIS,Paris II Panthéon Assas/ISIT,Master de Juriste Linguiste Bac + 5,,,1,DROIT,LANGUES,[],"['HLP', 'SES', 'LLCE', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
-PARIS,Paris II Panthéon Assas,Licence de Sciences Politiques,120,9,0,SC.POLITIQUE RI,,[],"['HLP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
-PARIS,Paris II Panthéon Assas,Licence de droit - Collège de Droit,75,8,0,DROIT,SC. POLITIQUES RI,[],"['SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
-PARIS,Paris I Panthéon Sorbonne,Licence de Sciences Politiques,75,5,0,SC.POLITIQUE RI,SC. POLITIQUES RI,[],"['HLP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
-PARIS,Paris I Panthéon Sorbonne,Licence de droit - Collège de Droit,,,0,DROIT,,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
-NANTERRE,Paris Nanterre,Licence de Sciences Politiques,130,16,0,SC.POLITIQUE RI,,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,4,5,0
-PARIS,Lycée Henri IV - Université PSL,CPES Humanités et Société,35,15,0,SC.POLITIQUE RI,HUMANITES,[],"['HLP', 'HGGSP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,1
-PARIS,Paris I Panthéon Sorbonne,Licence d'Economie,,,0,ECONOMIE,ECONOMIE,[],"['HGGSP', 'MATHS EXPERTES', 'SES']",[],3,3,3,2
-PARIS,Paris I Panthéon Sorbonne,Licence de Gestion,725,54,0,ECONOMIE GESTION,GESTION,[],['SES'],[],3,3,3,1
-PARIS,Paris I Panthéon Sorbonne,Double Licence Droit et Économie Gestion,,,0,DROIT,ÉCONOMIE GESTION,[],"['HGGSP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,4,4,1
-PARIS,Paris I Panthéon Sorbonne,Double Licence Économie et Science Politique,,,0,ECONOMIE GESTION,SC. POLITIQUES RI,[],"['SES', 'MATHS EXPERTES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,4,2
-PARIS,Paris II Panthéon Assas,Licence d'Économie et Gestion,350,24,0,ECONOMIE GESTION,ECONOMIE,[],"['SES', 'MATHS EXPERTES']",[],3,4,3,1
-PARIS,Paris II Panthéon Assas,Collège d'Économie - Filière Ingénierie en Analyse Economique,35,20,0,ECONOMIE GESTION,MATHEMATIQUES,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
-PARIS,Paris II Panthéon Assas,Collège d'Économie - Filière Economie et Droit,35,25,0,ECONOMIE GESTION,DROIT,[],"['HGGSP', 'SES']",[],4,5,4,1
-PARIS,Paris Saclay,Portail Économie Gestion - Parcours Économie et Finance,170,62,0,ÉCONOMIE GESTION,MATHEMATIQUES,[],['MATHS EXPERTES'],[],3,3,3,2
-PARIS,Paris II Panthéon Assas,Double Licence Droit et Économie Gestion,,,0,ÉCONOMIE GESTION,DROIT,[],"['SES', 'MATHS EXPERTES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,1
-PARIS,Paris II Panthéon Assas,CMI Efiquas,35,14,0,ÉCONOMIE GESTION,MATHEMATIQUES,[],"['SES', 'MATHS EXPERTES']",[],3,4,4,2
-PARIS,Paris Cité,Licence d'Économie Gestion,215,35,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES', 'MATHS COMPLEMENTAIRES']",[],2,3,3,2
-PARIS,Paris Cité,Licence d'Économie et Sciences Sociales,,,0,ÉCONOMIE GESTION,SCIENCES SOCIALES,[],"['SES', 'MATHS EXPERTES']",[],2,3,4,1
-PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Paris,600,18,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
-PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Paris Talents,,,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
-LONDRES,Université Paris Dauphine,Licence en Sciences des Organisations Londres,75,30,1,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
-MADRID,Université Paris Dauphine,Licence en Sciences des Organisations Madrid,35,27,1,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
-PARIS,Université Paris Dauphine,Licence Mathématiques et Informatique Paris,,,0,MATHEMATIQUES,INFO. - DATA SCIENCE - IA,[],"['PC', 'SES', 'MATHS EXPERTES']",[],4,5,4,3
-PARIS,Université Paris Dauphine,Licence Mathématiques et Informatique Paris Talents,,,0,MATHEMATIQUES,INFO. - DATA SCIENCE - IA,[],"['PC', 'SES', 'MATHS EXPERTES']",[],4,5,4,3
-PARIS,Université Paris Dauphine,Double Licence Sciences des Organisations et Intelligence Artificielle,,,0,ÉCONOMIE GESTION,INFO. - DATA SCIENCE - IA,[],"['PC', 'NSI', 'SES']",[],4,5,4,3
-PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Parcours Franco-Allemand,,,1,ÉCONOMIE GESTION,,[],"['PC', 'SES', 'MATHS EXPERTES']",[],4,5,4,2
-NANTERRE,Paris Nanterre,Licence d'Économie et Gestion,430,56,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],3,3,3,1
-NANTERRE,Paris Nanterre,Double Licence d'Économie Gestion - Cursus int. franco-anglais,90,43,1,ÉCONOMIE GESTION,,[],"['LLCE', 'SES', 'MATHS EXPERTES']",[],3,3,4,1
-NANTERRE,Paris Nanterre,Licence d'Économie Gestion CMI Data Science for Social Science D3S,,,0,ÉCONOMIE GESTION,INFO. - DATA SCIENCE - IA,[],"['PC', 'NSI', 'SES']",[],3,4,3,3
-LILLE,Institut Catholique de Lille,Licence d'Économie - Parcours Économie et Finance,,,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],3,3,2,2
-LILLE,Institut Catholique de Lille,Licence Internationale d'Économie Gestion,150,84,1,ÉCONOMIE GESTION,,[],"['LLCE', 'SES']",[],2,3,2,1
-LILLE,Institut Catholique de Lille,Licence de Gestion,150,95,0,ÉCONOMIE GESTION,,[],['SES'],[],2,2,2,1
-LYON,EM Lyon,SESAME Global BBA - Bac +4,505,49,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
-LYON,EM Lyon,SESAME Global BBA - Bac +4 - Distanciel,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
-CERGY PONTOISE,ESSEC,SESAME Global BBA - Bac +4 - Track Anglophone,145,8,1,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS EXPERTES']",[],3,4,3,1
-SINGAPOUR,ESSEC,SESAME Global BBA - Bac +4 - Singapour,,,1,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS EXPERTES']",[],3,5,3,1
-CERGY PONTOISE,ESSEC,SESAME Global BBA - Bac +4 - Track Francophone,270,12,0,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS EXPERTES']",[],3,3,3,1
-RABAT,ESSEC,SESAME Global BBA - Bac +4 - Track Francophone - Rabat,,,1,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS EXPERTES']",[],3,3,3,1
-ARCUEIL,EXCELIA,SESAME BBA international English Track Arcueil - La Rochelle,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
-LA ROCHELLE,EXCELIA,SESAME BBA international French Track - La Rochelle,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
-GRENOBLE,Grenoble Ecole de Management,SESAME International BBA - Bac +4,100,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
-,KEDGE,SESAME International BBA - Bac +4 - Marseille - Paris,150,57,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
-,NEOMA,SESAME Global BBA - Bac +4 - Rouen - Reims - Paris,280,53,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
-REIMS,NEOMA,SESAME CESEM Double Diplôme Bac + 4 Immersion Europe,85,63,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
-REIMS,NEOMA,SESAME CESEM Double Diplôme Bac +4 Immersion Amériques,85,50,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
-PARIS,NEOMA,SESAME CESEM Double Diplôme Bac +4 Immersion Asie,50,51,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
-TROYES,SCBS,SESAME International BBA - Bac +4,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,2,0
-,SKEMA,SESAME BBA Bac+4 in Global Management Bac +4 Lille - Valbonne (Sophia Antipolis),350,55,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
-PARIS,EBS - ex European Business School,SESAME - Programme Grande Ecole Bac + 5 - French Track,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
-,EBS - ex European Business School,SESAME - Programme Grande Ecole Bac + 5 - European Track,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
-PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - Luxury Management,,,0,COMMERCE,LUXE MODE,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
-PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - International Track,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
-PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - French Track,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
-PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - Global Sports Track - Talents,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
-COURBEVOIE,EMLV,SESAME - Programme Grande Ecole Bac + 5 - International Track,150,46,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],3,3,2,0
-COURBEVOIE,EMLV,Bachelor Business et Affaires Internationales,,,0,COMMERCE,SC. POLITIQUES RI,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,3,0
-COURBEVOIE,EMLV,SESAME - Programme Grande Ecole Bac +5,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
-PARIS - CLICHY,EM Normandie,SESAME PGE Campus de Clichy Track Anglophone,600,55,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-PARIS - CLICHY,EM Normandie,SESAME PGE Campus de Clichy Track Francophone,600,55,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-OXFORD,EM Normandie,SESAME PGE Track Anglophone Oxford,70,54,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-CAEN,EM Normandie,SESAME PGE Track Anglophone Caen,150,58,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-CAEN,EM Normandie,SESAME PGE Track Francophone Caen,150,58,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-DUBLIN,EM Normandie,SESAME PGE Track Anglophone Dublin,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-PARIS - CLICHY,EM Normandie,SESAME International BBA Bac + 4 Paris,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-LE HAVRE,EM Normandie,Bac+3 - Bachelor en Management International,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
-CLERMONT FERRAND,ESC Clermont Business School,Bac + 3 - Bachelor en Communication Digitale et E-Business,,,0,COMMERCE,DIGITAL E-BUSINESS,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-CLERMONT FERRAND,ESC Clermont Business School,Bac + 3 - Bachelor en Management International,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-,ESSCA,ACCES -Programme Grande Ecole Bac + 5 - Boulogne - Marseille - Lyon - Angers - Bordeaux - Strasbourg - Paris,200,65,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-PARIS,ESSCA,Bac + 3 - Bachelor en Management International Track Anglophone,70,76,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-,ESSCA,Bac + 3 - Bachelor en Management International Track Francophone - Aix - Bordeaux - Strasbourg - Lyon - Angers,130,75,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
-GRENOBLE,Grenoble Ecole de Management,Bac + 3 - Bachelor in International Business,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
-PARIS LA DEFENSE,ESCE,SESAME PGE Bac + 5 - Sciences Politiques Int. - La Défense,,,0,COMMERCE,SC. POLITIQUES RI,[],"['Maths', 'HGGSP', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
-LYON,ESCE,SESAME PGE Bac +5 - Sciences Politiques Int. - Lyon 7e,,,0,COMMERCE,SC. POLITIQUES RI,[],"['Maths', 'HGGSP', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
-"PARIS, LYON",ESCE,SESAME PGE - Cursus Int. Business - Francophone - Paris La Défense ou Lyon,60,37,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
-"PARIS , LYON",ESCE,SESAME PGE - Cursus International Business - Trilingue Paris ou Lyon,30,34,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
-"PARIS, LYON",ESCE,SESAME PGE - Cursus Int. Business - Anglophone - Paris La Défense Lyon,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
-PARIS,ICD,SESAME PGE- Track International Paris,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
-TOULOUSE,ICD,SESAME PGE- Track International Toulouse,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
-PARIS,IPAG,"SESAME Track Geopolitique, communication et Sciences Politiques",,,0,COMMERCE,SC. POLITIQUES RI,[],"['Maths', 'HGGSP', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-,IPAG,SESAME PGE Bac+5 Main Track Campus de Paris-Nice,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-,IPAG,SESAME PGE Bac+5 American Track Campus de Paris-Nice,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-NICE,IPAG,SESAME PGE Bac+5 Management et Ingénierie,,,0,COMMERCE,INGENIEUR,[],"['Maths', 'PC', 'SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],1,1,1,0
-BORDEAUX,KEDGE,SESAME - Programme Grande Ecole Bac + 5 - EBP International,270,55,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
-,NEOMA,SESAME TEMA – PGE Bac +5 Innovation et Digital Management - Paris - Reims - Rouen,120,60,0,COMMERCE,DIGITAL E-BUSINESS,[],"['SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],2,2,2,2
-PARIS,PSB Paris School of Business,SESAME PGE Bac+5 - International Track – Paris 13e,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-PARIS,PSB Paris School of Business,SESAME PGE Bac+5 - French Track – Paris 13e,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-MILAN,PSB Paris School of Business,"SESAME PGE Bac+5 - European Track –Milan, Munich puis Londres",30,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-,EDHEC,International BBA Bac + 4 - Parcours Global Business Nice/USA/Singapour,20,7,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,5,3,0
-"NICE, LILLE",EDHEC,"International BBA Bac +4 - Parcours Business Management - French Track Nice,Lille",225,44,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],3,3,3,0
-"NICE, LILLE",EDHEC,"International BBA Bac +4 - Parcours Business Management - English Track Nice,Lille",120,20,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],3,4,3,0
-ISSY LES MOULINEAUX -LILLE,EDHEC - CATHO DE LILLE,International BBA Bac+4 - Parcours International Law et Finance - Double Diplôme Licence Droit – Issy les Moulineaux/Lille (48 places – 63%),48,60,0,COMMERCE,DROIT,[],"['HGGSP', 'SES', 'MATHS COMPLEMENTAIRES']",[],3,4,4,2
-,EDHEC - UTCompiègne,International BBA Bac+4 – Parcours double diplôme en Ingénierie Digitale et Management,40,,0,COMMERCE,INFO. - DATA SCIENCE - IA,[],"['PC', 'NSI', 'SES', 'MATHS EXPERTES']",[],3,4,3,2
-"PARIS, LILLE",IESEG,ACCES PGE Bac+5 - Campus de Paris ou Lille,600,40,0,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],3,3,3,2
-"PARIS, LILLE",IESEG,Bac + 3 - Bachelor in International Business Paris ou Lille,60,85,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,3,0
-PARIS SAINT OUEN,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Parcours Francophone,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-NANTES,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Parcours Francophone,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-NANTES,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Global Business Track Anglophone,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-PARIS SAINT OUEN,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Global Business Track Anglophone,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-PARIS,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Paris,200,79,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-TOULOUSE,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Toulouse,400,81,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-BARCELONE,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Barcelone,40,80,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-PARIS,ISC - Institut Supérieur de Commerce,Bac+3 - Bachelor en Management Paris,200,68,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-ORLEANS,ISC - Institut Supérieur de Commerce,Bac+3 - Bachelor en Management Orléans,200,68,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
-PARIS,ESCP,Bac+3 - Bachelor of Science in Management - Paris,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],3,3,3,0
-,ESCP,Bac+3 - Bachelor of Science in Management - 1ère année Turin ou Londres,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],3,3,3,0
+,place,institution,wish name,number of spots,admission percentage,international,section 1,section 2,subjects 1,subjects 2,subjects 3,relative overall average,absolute value overall average,french grade,math level
+5,PARIS,Paris II Panthéon Assas,Licence de droit,972,16,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
+6,PARIS,Paris I Panthéon Sorbonne,Licence de droit,745,16,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
+7,PARIS,Paris I Panthéon Sorbonne,Double Licence Droit et Science Politique,60,5,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
+8,NANTERRE,Paris Nanterre,Licence de droit,770,53,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,0
+9,NANTERRE,Paris Nanterre,Licence de droit Français - droit étranger - Droit français Common Law,115,26,1,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,3,4,0
+10,PARIS,Paris Cité,Licence de droit,527,38,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
+11,PARIS,Catho de Paris - ICP,Licence de droit - Campus de Paris,250,43,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
+12,REIMS,Catho de Paris - ICP,Reims – Licence de droit,90,73,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
+13,ROUEN,Catho de Paris - ICP,Rouen – Licence de droit,90,79,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
+14,ISSY-LES-MOULINEAUX,Institut Catholique de Lille,Licence de Droit Parcours droit et culture juridique - Issy les Moulineaux,150,99,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
+15,ISSY-LES-MOULINEAUX,Institut Catholique de Lille,Licence de Droit – Parcours Multilingue droit international et Européen Issy Les Moulineaux,90,96,1,DROIT,SC. POLITIQUES RI,[],"['HLP', 'LLCE', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
+16,LILLE,Institut Catholique de Lille,Licence de Droit - Parcours droit et culture juridique – Lille,250,80,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
+17,LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Multilingue droit international et Européen - Lille,157,61,1,DROIT,SC. POLITIQUES RI,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
+18,LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Droit et Science Politique Lille,157,52,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
+19,LILLE,Institut Catholique de Lille,"ESPOL - Licence de Science Politique – Parcours Philosophie, Politique et Économique (PPE)",105,70,1,SC.POLITIQUE RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,1
+20,LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Licence Européenne de Science Politique,190,49,1,SC.POLITIQUE RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,0
+21,LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Relations internationales,180,26,1,SC.POLITIQUE RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
+22,PARIS,Catho de Paris - ICP,Licence d'Histoire - Parcours Histoire et Science Politique,220,38,0,HISTOIRE,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,4,4,0
+23,PARIS,Catho de Paris - ICP,Licence de Philosophie,50,100,0,HUMANITES,PHILOSOPHIE,[],"['HGGSP', 'HLP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
+24,PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence de Philosophie + Bachelor Science Politique, Géopolitique et Humanités",,,0,SC.POLITIQUE RI,PHILOSOPHIE,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,4,1
+25,PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence d'Histoire + Bachelor Science Politique, Géopolitique et Humanités",,,0,SC.POLITIQUE RI,HISTOIRE,[],"['HLP', 'SES', 'HGGSP']",[],4,5,4,1
+26,PARIS,Paris II Panthéon Assas/ISIT,Master de Juriste Linguiste Bac + 5,,,1,DROIT,LANGUES,[],"['HLP', 'SES', 'LLCE', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
+27,PARIS,Paris II Panthéon Assas,Licence de Sciences Politiques,120,9,0,SC.POLITIQUE RI,,[],"['HLP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
+28,PARIS,Paris II Panthéon Assas,Licence de droit - Collège de Droit,75,8,0,DROIT,SC. POLITIQUES RI,[],"['SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
+29,PARIS,Paris I Panthéon Sorbonne,Licence de Sciences Politiques,75,5,0,SC.POLITIQUE RI,SC. POLITIQUES RI,[],"['HLP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
+30,PARIS,Paris I Panthéon Sorbonne,Licence de droit - Collège de Droit,,,0,DROIT,,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
+31,NANTERRE,Paris Nanterre,Licence de Sciences Politiques,130,16,0,SC.POLITIQUE RI,,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,4,5,0
+32,PARIS,Lycée Henri IV - Université PSL,CPES Humanités et Société,35,15,0,SC.POLITIQUE RI,HUMANITES,[],"['HLP', 'HGGSP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,1
+33,PARIS,Paris I Panthéon Sorbonne,Licence d'Economie,,,0,ECONOMIE,ECONOMIE,[],"['HGGSP', 'MATHS EXPERTES', 'SES']",[],3,3,3,2
+34,PARIS,Paris I Panthéon Sorbonne,Licence de Gestion,725,54,0,ECONOMIE GESTION,GESTION,[],['SES'],[],3,3,3,1
+35,PARIS,Paris I Panthéon Sorbonne,Double Licence Droit et Économie Gestion,,,0,DROIT,ÉCONOMIE GESTION,[],"['HGGSP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,4,4,1
+36,PARIS,Paris I Panthéon Sorbonne,Double Licence Économie et Science Politique,,,0,ECONOMIE GESTION,SC. POLITIQUES RI,[],"['SES', 'MATHS EXPERTES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,4,2
+37,PARIS,Paris II Panthéon Assas,Licence d'Économie et Gestion,350,24,0,ECONOMIE GESTION,ECONOMIE,[],"['SES', 'MATHS EXPERTES']",[],3,4,3,1
+38,PARIS,Paris II Panthéon Assas,Collège d'Économie - Filière Ingénierie en Analyse Economique,35,20,0,ECONOMIE GESTION,MATHEMATIQUES,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
+39,PARIS,Paris II Panthéon Assas,Collège d'Économie - Filière Economie et Droit,35,25,0,ECONOMIE GESTION,DROIT,[],"['HGGSP', 'SES']",[],4,5,4,1
+40,PARIS,Paris Saclay,Portail Économie Gestion - Parcours Économie et Finance,170,62,0,ÉCONOMIE GESTION,MATHEMATIQUES,[],['MATHS EXPERTES'],[],3,3,3,2
+41,PARIS,Paris II Panthéon Assas,Double Licence Droit et Économie Gestion,,,0,ÉCONOMIE GESTION,DROIT,[],"['SES', 'MATHS EXPERTES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,1
+42,PARIS,Paris II Panthéon Assas,CMI Efiquas,35,14,0,ÉCONOMIE GESTION,MATHEMATIQUES,[],"['SES', 'MATHS EXPERTES']",[],3,4,4,2
+43,PARIS,Paris Cité,Licence d'Économie Gestion,215,35,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES', 'MATHS COMPLEMENTAIRES']",[],2,3,3,2
+44,PARIS,Paris Cité,Licence d'Économie et Sciences Sociales,,,0,ÉCONOMIE GESTION,SCIENCES SOCIALES,[],"['SES', 'MATHS EXPERTES']",[],2,3,4,1
+45,PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Paris,600,18,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
+46,PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Paris Talents,,,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
+47,LONDRES,Université Paris Dauphine,Licence en Sciences des Organisations Londres,75,30,1,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
+48,MADRID,Université Paris Dauphine,Licence en Sciences des Organisations Madrid,35,27,1,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],4,5,4,2
+49,PARIS,Université Paris Dauphine,Licence Mathématiques et Informatique Paris,,,0,MATHEMATIQUES,INFO. - DATA SCIENCE - IA,[],"['PC', 'SES', 'MATHS EXPERTES']",[],4,5,4,3
+50,PARIS,Université Paris Dauphine,Licence Mathématiques et Informatique Paris Talents,,,0,MATHEMATIQUES,INFO. - DATA SCIENCE - IA,[],"['PC', 'SES', 'MATHS EXPERTES']",[],4,5,4,3
+51,PARIS,Université Paris Dauphine,Double Licence Sciences des Organisations et Intelligence Artificielle,,,0,ÉCONOMIE GESTION,INFO. - DATA SCIENCE - IA,[],"['PC', 'NSI', 'SES']",[],4,5,4,3
+52,PARIS,Université Paris Dauphine,Licence en Sciences des Organisations Parcours Franco-Allemand,,,1,ÉCONOMIE GESTION,,[],"['PC', 'SES', 'MATHS EXPERTES']",[],4,5,4,2
+53,NANTERRE,Paris Nanterre,Licence d'Économie et Gestion,430,56,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],3,3,3,1
+54,NANTERRE,Paris Nanterre,Double Licence d'Économie Gestion - Cursus int. franco-anglais,90,43,1,ÉCONOMIE GESTION,,[],"['LLCE', 'SES', 'MATHS EXPERTES']",[],3,3,4,1
+55,NANTERRE,Paris Nanterre,Licence d'Économie Gestion CMI Data Science for Social Science D3S,,,0,ÉCONOMIE GESTION,INFO. - DATA SCIENCE - IA,[],"['PC', 'NSI', 'SES']",[],3,4,3,3
+56,LILLE,Institut Catholique de Lille,Licence d'Économie - Parcours Économie et Finance,,,0,ÉCONOMIE GESTION,,[],"['SES', 'MATHS EXPERTES']",[],3,3,2,2
+57,LILLE,Institut Catholique de Lille,Licence Internationale d'Économie Gestion,150,84,1,ÉCONOMIE GESTION,,[],"['LLCE', 'SES']",[],2,3,2,1
+58,LILLE,Institut Catholique de Lille,Licence de Gestion,150,95,0,ÉCONOMIE GESTION,,[],['SES'],[],2,2,2,1
+59,LYON,EM Lyon,SESAME Global BBA - Bac +4,505,49,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
+60,LYON,EM Lyon,SESAME Global BBA - Bac +4 - Distanciel,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
+61,CERGY PONTOISE,ESSEC,SESAME Global BBA - Bac +4 - Track Anglophone,145,8,1,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS EXPERTES']",[],3,4,3,1
+62,SINGAPOUR,ESSEC,SESAME Global BBA - Bac +4 - Singapour,,,1,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS EXPERTES']",[],3,5,3,1
+63,CERGY PONTOISE,ESSEC,SESAME Global BBA - Bac +4 - Track Francophone,270,12,0,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS EXPERTES']",[],3,3,3,1
+64,RABAT,ESSEC,SESAME Global BBA - Bac +4 - Track Francophone - Rabat,,,1,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS EXPERTES']",[],3,3,3,1
+65,ARCUEIL,EXCELIA,SESAME BBA international English Track Arcueil - La Rochelle,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
+66,LA ROCHELLE,EXCELIA,SESAME BBA international French Track - La Rochelle,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
+67,GRENOBLE,Grenoble Ecole de Management,SESAME International BBA - Bac +4,100,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
+68,,KEDGE,SESAME International BBA - Bac +4 - Marseille - Paris,150,57,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
+69,,NEOMA,SESAME Global BBA - Bac +4 - Rouen - Reims - Paris,280,53,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
+70,REIMS,NEOMA,SESAME CESEM Double Diplôme Bac + 4 Immersion Europe,85,63,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
+71,REIMS,NEOMA,SESAME CESEM Double Diplôme Bac +4 Immersion Amériques,85,50,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
+72,PARIS,NEOMA,SESAME CESEM Double Diplôme Bac +4 Immersion Asie,50,51,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
+73,TROYES,SCBS,SESAME International BBA - Bac +4,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,2,0
+74,,SKEMA,SESAME BBA Bac+4 in Global Management Bac +4 Lille - Valbonne (Sophia Antipolis),350,55,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
+75,PARIS,EBS - ex European Business School,SESAME - Programme Grande Ecole Bac + 5 - French Track,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
+76,,EBS - ex European Business School,SESAME - Programme Grande Ecole Bac + 5 - European Track,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
+77,PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - Luxury Management,,,0,COMMERCE,LUXE MODE,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
+78,PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - International Track,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
+79,PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - French Track,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
+80,PUTEAUX,EDC,SESAME - Programme Grande Ecole Bac + 5 - Global Sports Track - Talents,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,1,1,0
+81,COURBEVOIE,EMLV,SESAME - Programme Grande Ecole Bac + 5 - International Track,150,46,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],3,3,2,0
+82,COURBEVOIE,EMLV,Bachelor Business et Affaires Internationales,,,0,COMMERCE,SC. POLITIQUES RI,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,3,0
+83,COURBEVOIE,EMLV,SESAME - Programme Grande Ecole Bac +5,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,2,0
+84,PARIS - CLICHY,EM Normandie,SESAME PGE Campus de Clichy Track Anglophone,600,55,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+85,PARIS - CLICHY,EM Normandie,SESAME PGE Campus de Clichy Track Francophone,600,55,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+86,OXFORD,EM Normandie,SESAME PGE Track Anglophone Oxford,70,54,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+87,CAEN,EM Normandie,SESAME PGE Track Anglophone Caen,150,58,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+88,CAEN,EM Normandie,SESAME PGE Track Francophone Caen,150,58,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+89,DUBLIN,EM Normandie,SESAME PGE Track Anglophone Dublin,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+90,PARIS - CLICHY,EM Normandie,SESAME International BBA Bac + 4 Paris,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+91,LE HAVRE,EM Normandie,Bac+3 - Bachelor en Management International,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
+92,CLERMONT FERRAND,ESC Clermont Business School,Bac + 3 - Bachelor en Communication Digitale et E-Business,,,0,COMMERCE,DIGITAL E-BUSINESS,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+93,CLERMONT FERRAND,ESC Clermont Business School,Bac + 3 - Bachelor en Management International,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+94,,ESSCA,ACCES -Programme Grande Ecole Bac + 5 - Boulogne - Marseille - Lyon - Angers - Bordeaux - Strasbourg - Paris,200,65,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+95,PARIS,ESSCA,Bac + 3 - Bachelor en Management International Track Anglophone,70,76,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+96,,ESSCA,Bac + 3 - Bachelor en Management International Track Francophone - Aix - Bordeaux - Strasbourg - Lyon - Angers,130,75,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
+97,GRENOBLE,Grenoble Ecole de Management,Bac + 3 - Bachelor in International Business,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,1,0
+98,PARIS LA DEFENSE,ESCE,SESAME PGE Bac + 5 - Sciences Politiques Int. - La Défense,,,0,COMMERCE,SC. POLITIQUES RI,[],"['Maths', 'HGGSP', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
+99,LYON,ESCE,SESAME PGE Bac +5 - Sciences Politiques Int. - Lyon 7e,,,0,COMMERCE,SC. POLITIQUES RI,[],"['Maths', 'HGGSP', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
+100,"PARIS, LYON",ESCE,SESAME PGE - Cursus Int. Business - Francophone - Paris La Défense ou Lyon,60,37,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
+101,"PARIS , LYON",ESCE,SESAME PGE - Cursus International Business - Trilingue Paris ou Lyon,30,34,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
+102,"PARIS, LYON",ESCE,SESAME PGE - Cursus Int. Business - Anglophone - Paris La Défense Lyon,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
+103,PARIS,ICD,SESAME PGE- Track International Paris,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
+104,TOULOUSE,ICD,SESAME PGE- Track International Toulouse,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,2,1,0
+105,PARIS,IPAG,"SESAME Track Geopolitique, communication et Sciences Politiques",,,0,COMMERCE,SC. POLITIQUES RI,[],"['Maths', 'HGGSP', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+106,,IPAG,SESAME PGE Bac+5 Main Track Campus de Paris-Nice,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+107,,IPAG,SESAME PGE Bac+5 American Track Campus de Paris-Nice,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+108,NICE,IPAG,SESAME PGE Bac+5 Management et Ingénierie,,,0,COMMERCE,INGENIEUR,[],"['Maths', 'PC', 'SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],1,1,1,0
+109,BORDEAUX,KEDGE,SESAME - Programme Grande Ecole Bac + 5 - EBP International,270,55,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,2,2,0
+110,,NEOMA,SESAME TEMA – PGE Bac +5 Innovation et Digital Management - Paris - Reims - Rouen,120,60,0,COMMERCE,DIGITAL E-BUSINESS,[],"['SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],2,2,2,2
+111,PARIS,PSB Paris School of Business,SESAME PGE Bac+5 - International Track – Paris 13e,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+112,PARIS,PSB Paris School of Business,SESAME PGE Bac+5 - French Track – Paris 13e,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+113,MILAN,PSB Paris School of Business,"SESAME PGE Bac+5 - European Track –Milan, Munich puis Londres",30,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+114,,EDHEC,International BBA Bac + 4 - Parcours Global Business Nice/USA/Singapour,20,7,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],4,5,3,0
+115,"NICE, LILLE",EDHEC,"International BBA Bac +4 - Parcours Business Management - French Track Nice,Lille",225,44,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],3,3,3,0
+116,"NICE, LILLE",EDHEC,"International BBA Bac +4 - Parcours Business Management - English Track Nice,Lille",120,20,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],3,4,3,0
+117,ISSY LES MOULINEAUX -LILLE,EDHEC - CATHO DE LILLE,International BBA Bac+4 - Parcours International Law et Finance - Double Diplôme Licence Droit – Issy les Moulineaux/Lille (48 places – 63%),48,60,0,COMMERCE,DROIT,[],"['HGGSP', 'SES', 'MATHS COMPLEMENTAIRES']",[],3,4,4,2
+118,,EDHEC - UTCompiègne,International BBA Bac+4 – Parcours double diplôme en Ingénierie Digitale et Management,40,,0,COMMERCE,INFO. - DATA SCIENCE - IA,[],"['PC', 'NSI', 'SES', 'MATHS EXPERTES']",[],3,4,3,2
+119,"PARIS, LILLE",IESEG,ACCES PGE Bac+5 - Campus de Paris ou Lille,600,40,0,COMMERCE,MNGT GENERAL,[],"['SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],3,3,3,2
+120,"PARIS, LILLE",IESEG,Bac + 3 - Bachelor in International Business Paris ou Lille,60,85,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],2,3,3,0
+121,PARIS SAINT OUEN,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Parcours Francophone,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+122,NANTES,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Parcours Francophone,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+123,NANTES,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Global Business Track Anglophone,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+124,PARIS SAINT OUEN,AUDENCIA,Bac +3 - Bachelor Management des Entreprises Global Business Track Anglophone,,,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+125,PARIS,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Paris,200,79,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+126,TOULOUSE,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Toulouse,400,81,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+127,BARCELONE,TBS EDUCATION - Toulouse Business School,Bac+3 - Bachelor en Management Barcelone,40,80,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+128,PARIS,ISC - Institut Supérieur de Commerce,Bac+3 - Bachelor en Management Paris,200,68,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+129,ORLEANS,ISC - Institut Supérieur de Commerce,Bac+3 - Bachelor en Management Orléans,200,68,0,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES']",[],1,1,1,0
+130,PARIS,ESCP,Bac+3 - Bachelor of Science in Management - Paris,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],3,3,3,0
+131,,ESCP,Bac+3 - Bachelor of Science in Management - 1ère année Turin ou Londres,,,1,COMMERCE,MNGT GENERAL,[],"['Maths', 'SES', 'MATHS COMPLEMENTAIRES', 'MATHS EXPERTES']",[],3,3,3,0
