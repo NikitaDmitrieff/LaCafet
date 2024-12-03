@@ -1,10 +1,20 @@
 import pandas as pd
 
 import config
-from backend.app.comet_predictor.generator import generate_possible_wishes
+from backend.app.comet_predictor.generator import (
+    generate_possible_wishes,
+    create_wish_list_data_files,
+)
+
+create_wish_list_data_files()
 
 
 def test_generate_possible_wishes():
+    """
+    Tests that from a standard profile, the correct wishes are fetched and discarded.
+        - possible_wishes bear "pass" in the wish name
+        - impossible_wishes bear "fail" in the wish name
+    """
 
     profile_df = pd.read_csv(config.TEST_PROFILE_WISH_LIST_DATA_PATH)
     profile = {

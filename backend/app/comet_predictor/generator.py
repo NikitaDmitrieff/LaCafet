@@ -36,6 +36,7 @@ def _hard_requirement_parser(
         can_apply = True
         for requirement_name, requirement_value in row.to_dict().items():
 
+            # Profile must exceed grade requirements
             if requirement_name in [
                 "relative overall average",
                 "absolute value overall average",
@@ -46,6 +47,14 @@ def _hard_requirement_parser(
                     can_apply = False
                     break
 
+            # Profile must match subjects 1 requirements
+            elif requirement_name in ["subjects 1"]:
+
+                if profile["subjects 1"] not in row["subjects 1"]:
+                    can_apply = False
+                    break
+
+            # Profile must match one of the two sections
             elif requirement_name in ["section 1"]:
                 section_match = any(
                     section in [profile["section 1"], profile["section 2"]]
