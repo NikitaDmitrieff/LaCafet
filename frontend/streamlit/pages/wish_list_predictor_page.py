@@ -29,7 +29,7 @@ def streamlit_user_input():
     # Filière 1 and Filière 2
     filiere_1_options = [
         "DROIT",
-        "SC.POLITIQUE RI",
+        "SC. POLITIQUES RI",
         "HISTOIRE",
         "HUMANITES",
         "ECONOMIE",

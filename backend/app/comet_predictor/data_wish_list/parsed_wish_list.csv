@@ -13,20 +13,20 @@
 16,LILLE,Institut Catholique de Lille,Licence de Droit - Parcours droit et culture juridique – Lille,250,80,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
 17,LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Multilingue droit international et Européen - Lille,157,61,1,DROIT,SC. POLITIQUES RI,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
 18,LILLE,Institut Catholique de Lille,Licence de Droit – Parcours Droit et Science Politique Lille,157,52,0,DROIT,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,3,4,0
-19,LILLE,Institut Catholique de Lille,"ESPOL - Licence de Science Politique – Parcours Philosophie, Politique et Économique (PPE)",105,70,1,SC.POLITIQUE RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,1
-20,LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Licence Européenne de Science Politique,190,49,1,SC.POLITIQUE RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,0
-21,LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Relations internationales,180,26,1,SC.POLITIQUE RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
+19,LILLE,Institut Catholique de Lille,"ESPOL - Licence de Science Politique – Parcours Philosophie, Politique et Économique (PPE)",105,70,1,SC. POLITIQUES RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,1
+20,LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Licence Européenne de Science Politique,190,49,1,SC. POLITIQUES RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],3,3,4,0
+21,LILLE,Institut Catholique de Lille,ESPOL - Licence de Science Politique – Parcours Relations internationales,180,26,1,SC. POLITIQUES RI,SCIENCES SOCIALES,[],"['HLP', 'LLCE', 'SES', HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
 22,PARIS,Catho de Paris - ICP,Licence d'Histoire - Parcours Histoire et Science Politique,220,38,0,HISTOIRE,SC. POLITIQUES RI,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],2,4,4,0
 23,PARIS,Catho de Paris - ICP,Licence de Philosophie,50,100,0,HUMANITES,PHILOSOPHIE,[],"['HGGSP', 'HLP']",['DROIT ET GRANDS ENJEUX'],2,3,3,0
-24,PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence de Philosophie + Bachelor Science Politique, Géopolitique et Humanités",,,0,SC.POLITIQUE RI,PHILOSOPHIE,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,4,1
-25,PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence d'Histoire + Bachelor Science Politique, Géopolitique et Humanités",,,0,SC.POLITIQUE RI,HISTOIRE,[],"['HLP', 'SES', 'HGGSP']",[],4,5,4,1
+24,PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence de Philosophie + Bachelor Science Politique, Géopolitique et Humanités",,,0,SC. POLITIQUES RI,PHILOSOPHIE,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,4,1
+25,PARIS,Catho de Paris - ICP - Lycées Stanislas et Saint Jean de Passy,"Licence d'Histoire + Bachelor Science Politique, Géopolitique et Humanités",,,0,SC. POLITIQUES RI,HISTOIRE,[],"['HLP', 'SES', 'HGGSP']",[],4,5,4,1
 26,PARIS,Paris II Panthéon Assas/ISIT,Master de Juriste Linguiste Bac + 5,,,1,DROIT,LANGUES,[],"['HLP', 'SES', 'LLCE', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],3,4,4,0
-27,PARIS,Paris II Panthéon Assas,Licence de Sciences Politiques,120,9,0,SC.POLITIQUE RI,,[],"['HLP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
+27,PARIS,Paris II Panthéon Assas,Licence de Sciences Politiques,120,9,0,COMMERCE,,[],"['HLP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
 28,PARIS,Paris II Panthéon Assas,Licence de droit - Collège de Droit,75,8,0,DROIT,SC. POLITIQUES RI,[],"['SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
-29,PARIS,Paris I Panthéon Sorbonne,Licence de Sciences Politiques,75,5,0,SC.POLITIQUE RI,SC. POLITIQUES RI,[],"['HLP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
+29,PARIS,Paris I Panthéon Sorbonne,Licence de Sciences Politiques,75,5,0,SC. POLITIQUES RI,SC. POLITIQUES RI,[],"['HLP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
 30,PARIS,Paris I Panthéon Sorbonne,Licence de droit - Collège de Droit,,,0,DROIT,,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,5,5,0
-31,NANTERRE,Paris Nanterre,Licence de Sciences Politiques,130,16,0,SC.POLITIQUE RI,,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,4,5,0
-32,PARIS,Lycée Henri IV - Université PSL,CPES Humanités et Société,35,15,0,SC.POLITIQUE RI,HUMANITES,[],"['HLP', 'HGGSP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,1
+31,NANTERRE,Paris Nanterre,Licence de Sciences Politiques,130,16,0,SC. POLITIQUES RI,,[],"['HLP', 'SES', 'HGGSP']",['DROIT ET GRANDS ENJEUX'],4,4,5,0
+32,PARIS,Lycée Henri IV - Université PSL,CPES Humanités et Société,35,15,0,SC. POLITIQUES RI,HUMANITES,[],"['HLP', 'HGGSP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,5,5,1
 33,PARIS,Paris I Panthéon Sorbonne,Licence d'Economie,,,0,ECONOMIE,ECONOMIE,[],"['HGGSP', 'MATHS EXPERTES', 'SES']",[],3,3,3,2
 34,PARIS,Paris I Panthéon Sorbonne,Licence de Gestion,725,54,0,ECONOMIE GESTION,GESTION,[],['SES'],[],3,3,3,1
 35,PARIS,Paris I Panthéon Sorbonne,Double Licence Droit et Économie Gestion,,,0,DROIT,ÉCONOMIE GESTION,[],"['HGGSP', 'SES']",['DROIT ET GRANDS ENJEUX'],4,4,4,1
