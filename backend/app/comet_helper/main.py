@@ -12,9 +12,9 @@ from backend.app.comet_helper.chat_utils import (
     load_pdf_documents,
 )
 from backend.app.comet_helper.prompts import (
+    HYDE_PROMPT_TEMPLATE,
     SYSTEM_PROMPT_TEMPLATE,
     USER_PROMPT_TEMPLATE,
-    HYDE_PROMPT_TEMPLATE,
     prompt_format,
 )
 
